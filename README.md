@@ -14,214 +14,111 @@
 ## 项目目录
 
 以下是我们按照不同领域分类的部分精选AI项目列表：
-
 ### 智能体开发
-
-1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：AutoGPT: accessible AI tools for focused use.
-
-2. [geekan/MetaGPT](https://github.com/geekan/MetaGPT)：The Multi - Agent Framework: First AI Co., to NLP
-
-3. [microsoft/autogen](https://github.com/microsoft/autogen)：Agentic AI编程框架，PyPi、Discord等相关链接
-
-4. [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)：在浏览器中组装、配置和部署自主AI代理。
-
-5. [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)：Framework for role - playing, collaborative AI agents.
-
-6. [microsoft/JARVIS](https://github.com/microsoft/JARVIS)：JARVIS: Connect LLMs with ML community.
-
-7. [mem0ai/mem0](https://github.com/mem0ai/mem0)：AI apps的记忆层。
-
-8. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)：Quickly and easily integrate LLM technology into apps.
-
+1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：AutoGPT：专注使用的便捷 AI 工具。
+2. [geekan/MetaGPT](https://github.com/geekan/MetaGPT)：多智能体框架：首个 AI 公司，专注自然语言处理。
+3. [microsoft/autogen](https://github.com/microsoft/autogen)：智能体 AI 编程框架，包含 PyPi、Discord 等相关链接。
+4. [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT)：在浏览器中组装、配置和部署自主 AI 代理。
+5. [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI)：角色扮演、协作 AI 智能体框架。
+6. [microsoft/JARVIS](https://github.com/microsoft/JARVIS)：JARVIS：连接大型语言模型（LLM）与机器学习社区。
+7. [mem0ai/mem0](https://github.com/mem0ai/mem0)：AI 应用的记忆层。
+8. [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel)：快速且轻松地将 LLM 技术集成到应用中。
 9. [yoheinakajima/babyagi](https://github.com/yoheinakajima/babyagi)
-
-10. [openai/swarm](https://github.com/openai/swarm)：Educational framework for multi - agent orchestration.
-
-11. [phidatahq/phidata](https://github.com/phidatahq/phidata)：Build multi - modal Agents with memory, etc.
-
-12. [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)：SuperAGI：开源自主AI框架，助力开发者
-
-13. [composiohq/composio](https://github.com/composiohq/composio)：Composio equips AI agents & LLMs with 100+ integrations.
-
-14. [cpacker/MemGPT](https://github.com/cpacker/MemGPT)：Letta是创建带记忆LLM服务的框架。
-
-15. [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research)：Repository has code for DeepMind publications.
-
-16. [botpress/botpress](https://github.com/botpress/botpress)：Open - source hub for building & deploying GPT/LLM Agents.
-
-17. [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS)：Fudan University's open - source tool - augmented chat model
-
-18. [smol-ai/developer](https://github.com/smol-ai/developer)：The first library to embed dev agent in your app.
-
-19. [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)：Autonomous LLM Agent for Complex Task Solving
-
-20. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)：Build resilient language agents as graphs.
-
-21. [e2b-dev/e2b](https://github.com/e2b-dev/e2b)：Secure open source cloud runtime for AI
-
-22. [modelscope/agentscope](https://github.com/modelscope/agentscope)：Easily build LLM - powered multi - agent apps.
-
-23. [homanp/superagent](https://github.com/homanp/superagent)：Run AI - agents via an API.
-
-24. [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)：An open - source framework for autonomous language agents.
-
-25. [frdel/agent-zero](https://github.com/frdel/agent-zero)：Agent Zero AI framework
-
-26. [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)：LLM驱动多智能体模拟以提升想象力和商业洞察力
-
-27. [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)：Agent framework with Qwen>=2.0 features like Function Calling.
-
-28. [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)：AgentVerse便于多LLM - based agents部署应用。
-
-29. [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)：Plugins for Auto - GPT (精简后)
-
-30. [Ironclad/rivet](https://github.com/Ironclad/rivet)：开源视觉AI编程环境和TypeScript库
-
-31. [gmpetrov/databerry](https://github.com/gmpetrov/databerry)：No - code platform for building custom LLM Agents
-
-32. [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools)：大模型工具学习，ChatGPT插件开源方案
-
-33. [langroid/langroid](https://github.com/langroid/langroid)：Harness LLMs through Multi - Agent Programming
-
-34. [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi)：MiniAGI: simple OpenAI - based autonomous agent.
-
-35. [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)：API标准：多智能体强化学习环境及其相关
-
-36. [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)：AGiXT, an AI platform for instruction and task management.
-
-37. [togethercomputer/moa](https://github.com/togethercomputer/moa)：Together MoA: 65.1% on AlpacaEval with OSS models
-
-38. [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)：Python SDK for AI agent monitoring, LLM cost tracking.
-
-39. [noahshinn/reflexion](https://github.com/noahshinn/reflexion)：[NeurIPS 2023] Reflexion: 语言智能体的言语强化学习
-
-40. [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp)：.NET中的AI多智能体框架
-
-41. [dot-agent/nextpy](https://github.com/dot-agent/nextpy)：Self - Modifying Framework, World's First AMS
-
-42. [iterative/datachain](https://github.com/iterative/datachain)：ETL、分析与非结构化数据版本管理
-
-43. [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI)：OpenAGI: LLM与领域专家的结合。
-
-44. [InternLM/lagent](https://github.com/InternLM/lagent)：Lightweight LLM - based agents building framework.
-
-45. [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)：Building Open - Ended Embodied Agents with Web Knowledge
-
-46. [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain)：AutoChain：构建轻量、可扩展且可测试的LLM代理
-
-47. [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent)：Vision agent
-
-48. [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)：Starter-kit for constrained agents using Nextjs, FastAPI, Langchain
-
-49. [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt)：Agent techniques to augment LLM beyond limits.
-
-50. [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt)：Modular Auto - GPT Framework
-
-51. [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)：ChatArena是用于LLMs的多智能体语言游戏环境。
-
-52. [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning)：AgentTuning: 赋予LLMs广义代理能力
-
-53. [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)：LLM-based agent controlling apps via RESTful APIs
-
-54. [Link-AGI/AutoAgents](https://github.com/Link-AGI/AutoAgents)：[IJCAI 2024] Generate roles for GPTs in complex tasks.
-
-55. [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm)：Codes for "Chameleon" with LLM compositional reasoning.
-
-56. [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol)：Common interface for interacting with AI agents.
-
-57. [kreneskyp/ix](https://github.com/kreneskyp/ix)：Autonomous GPT - 4 agent platform
-
-
+10. [openai/swarm](https://github.com/openai/swarm)：多智能体编排的教育框架。
+11. [phidatahq/phidata](https://github.com/phidatahq/phidata)：构建具有记忆等功能的多模态智能体。
+12. [TransformerOptimus/SuperAGI](https://github.com/TransformerOptimus/SuperAGI)：SuperAGI：开源自主 AI 框架，助力开发者。
+13. [composiohq/composio](https://github.com/composiohq/composio)：Composio 为 AI 智能体和 LLM 配备 100 多种集成。
+14. [cpacker/MemGPT](https://github.com/cpacker/MemGPT)：Letta 是创建带记忆 LLM 服务的框架。
+15. [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research)：该仓库包含 DeepMind 出版物的代码。
+16. [botpress/botpress](https://github.com/botpress/botpress)：用于构建和部署 GPT/LLM 智能体的开源中心。
+17. [OpenMOSS/MOSS](https://github.com/OpenMOSS/MOSS)：复旦大学的开源工具增强聊天模型。
+18. [smol-ai/developer](https://github.com/smol-ai/developer)：首个在应用中嵌入开发智能体的库。
+19. [OpenBMB/XAgent](https://github.com/OpenBMB/XAgent)：用于解决复杂任务的自主 LLM 智能体。
+20. [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph)：将弹性语言智能体构建为图。
+21. [e2b-dev/e2b](https://github.com/e2b-dev/e2b)：AI 的安全开源云运行时。
+22. [modelscope/agentscope](https://github.com/modelscope/agentscope)：轻松构建由 LLM 驱动的多智能体应用。
+23. [homanp/superagent](https://github.com/homanp/superagent)：通过 API 运行 AI 智能体。
+24. [aiwaves-cn/agents](https://github.com/aiwaves-cn/agents)：自主语言智能体的开源框架。
+25. [frdel/agent-zero](https://github.com/frdel/agent-zero)：Agent Zero AI 框架。
+26. [microsoft/TinyTroupe](https://github.com/microsoft/TinyTroupe)：LLM 驱动的多智能体模拟，提升想象力和商业洞察力。
+27. [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent)：具有 Qwen >= 2.0 功能（如函数调用）的智能体框架。
+28. [OpenBMB/AgentVerse](https://github.com/OpenBMB/AgentVerse)：AgentVerse 便于部署和应用基于多个 LLM 的智能体。
+29. [Significant-Gravitas/Auto-GPT-Plugins](https://github.com/Significant-Gravitas/Auto-GPT-Plugins)：Auto - GPT 的插件（精简后）。
+30. [Ironclad/rivet](https://github.com/Ironclad/rivet)：开源视觉 AI 编程环境和 TypeScript 库。
+31. [gmpetrov/databerry](https://github.com/gmpetrov/databerry)：用于构建自定义 LLM 智能体的无代码平台。
+32. [OpenBMB/BMTools](https://github.com/OpenBMB/BMTools)：大模型工具学习，ChatGPT 插件开源方案。
+33. [langroid/langroid](https://github.com/langroid/langroid)：通过多智能体编程利用 LLM。
+34. [muellerberndt/mini-agi](https://github.com/muellerberndt/mini-agi)：MiniAGI：基于 OpenAI 的简单自主智能体。
+35. [Farama-Foundation/PettingZoo](https://github.com/Farama-Foundation/PettingZoo)：API 标准：多智能体强化学习环境及其相关。
+36. [Josh-XT/AGiXT](https://github.com/Josh-XT/AGiXT)：AGiXT，用于指令和任务管理的 AI 平台。
+37. [togethercomputer/moa](https://github.com/togethercomputer/moa)：Together MoA：在 AlpacaEval 上达到 65.1%，使用开源模型。
+38. [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops)：用于 AI 智能体监控和 LLM 成本跟踪的 Python SDK。
+39. [noahshinn/reflexion](https://github.com/noahshinn/reflexion)：[NeurIPS 2023] Reflexion：语言智能体的言语强化学习。
+40. [SciSharp/BotSharp](https://github.com/SciSharp/BotSharp)：.NET 中的 AI 多智能体框架。
+41. [dot-agent/nextpy](https://github.com/dot-agent/nextpy)：自修改框架，世界上首个 AMS。
+42. [iterative/datachain](https://github.com/iterative/datachain)：ETL、分析与非结构化数据版本管理。
+43. [agiresearch/OpenAGI](https://github.com/agiresearch/OpenAGI)：OpenAGI：LLM 与领域专家的结合。
+44. [InternLM/lagent](https://github.com/InternLM/lagent)：基于轻量级 LLM 的智能体构建框架。
+45. [MineDojo/MineDojo](https://github.com/MineDojo/MineDojo)：利用网络知识构建开放式具身智能体。
+46. [Forethought-Technologies/AutoChain](https://github.com/Forethought-Technologies/AutoChain)：AutoChain：构建轻量、可扩展且可测试的 LLM 代理。
+47. [landing-ai/vision-agent](https://github.com/landing-ai/vision-agent)：视觉智能体。
+48. [BCG-X-Official/agentkit](https://github.com/BCG-X-Official/agentkit)：使用 Nextjs、FastAPI、Langchain 的受限智能体入门套件。
+49. [jina-ai/thinkgpt](https://github.com/jina-ai/thinkgpt)：超越限制增强 LLM 的智能体技术。
+50. [farizrahman4u/loopgpt](https://github.com/farizrahman4u/loopgpt)：模块化 Auto - GPT 框架。
+51. [Farama-Foundation/chatarena](https://github.com/Farama-Foundation/chatarena)：ChatArena 是用于 LLM 的多智能体语言游戏环境。
+52. [THUDM/AgentTuning](https://github.com/THUDM/AgentTuning)：AgentTuning：赋予 LLM 广义代理能力。
+53. [Yifan-Song793/RestGPT](https://github.com/Yifan-Song793/RestGPT)：通过 RESTful API 控制应用的基于 LLM 的智能体。
+54. [Link-AGI/AutoAgents](https://github.com/Link-AGI/AutoAgents)：[IJCAI 2024] 在复杂任务中为 GPT 生成角色。
+55. [lupantech/chameleon-llm](https://github.com/lupantech/chameleon-llm)：具有 LLM 组合推理的“Chameleon”代码。
+56. [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol)：与 AI 智能体交互的通用接口。
+57. [kreneskyp/ix](https://github.com/kreneskyp/ix)：自主 GPT - 4 智能体平台。
 
 ### 提示工程
-
-1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)：ChatGPT提示整理，助更好使用LLM工具。
-
-2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：ChatGPT中文调教指南，各场景使用。
-
-3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)：Prompt engineering的指南、论文、讲座等资源
-
-4. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)：DSPy：语言模型的编程框架而非提示
-
-5. [guidance-ai/guidance](https://github.com/guidance-ai/guidance)：A guidance language for controlling LLMs.
-
-6. [outlines-dev/outlines](https://github.com/outlines-dev/outlines)：Structured Text Generation精简后：结构化文本生成
-
+1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)：ChatGPT 提示整理，有助于更好地使用 LLM 工具。
+2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：ChatGPT 中文调教指南，适用于各种场景。
+3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)：提示工程的指南、论文、讲座等资源。
+4. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)：DSPy：语言模型的编程框架而非提示。
+5. [guidance-ai/guidance](https://github.com/guidance-ai/guidance)：用于控制 LLM 的引导语言。
+6. [outlines-dev/outlines](https://github.com/outlines-dev/outlines)：结构化文本生成（精简后）：生成结构化文本。
 7. [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
-
-8. [jxnl/instructor](https://github.com/jxnl/instructor)：结构化的LLM输出
-
-9. [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)：Tips for working with GPT - 4 - like models.
-
-10. [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)：GPT系统提示与提示注入/泄露知识集。
-
-11. [microsoft/TypeChat](https://github.com/microsoft/TypeChat)：TypeChat是用类型构建自然语言接口的库。
-
-12. [sgl-project/sglang](https://github.com/sgl-project/sglang)：SGLang是大语言模型和视觉语言模型的快速服务框架。
-
-13. [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)：ICLR 2024：高效流语言模型的注意力汇聚
-
-14. [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)：Supercharged ChatGPT自定义指令（非编码相关）
-
-15. [civitai/civitai](https://github.com/civitai/civitai)：Models、textual inversions等的资源库
-
-16. [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)：AIGC提示词可视化编辑器 | OPS | Open Prompt Studio
-
-17. [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)：AI快捷指令提升效率，提示词分享社区助力
-
-18. [microsoft/promptbase](https://github.com/microsoft/promptbase)：All things in prompt engineering.
-
-19. [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)：Build AI interfaces full of joy
-
-20. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)：Test prompts, agents, RAGs for LLMs and compare performance.
-
-21. [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)：NeurIPS 2023：Tree of Thoughts解决问题
-
-22. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)：Agent Framework中使用Pydantic与LLMs的垫片
-
-23. [1rgs/jsonformer](https://github.com/1rgs/jsonformer)：A Bulletproof Way to Generate JSON from LMs
-
-24. [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)：An open - source prompt - learning framework.
-
-25. [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)：Adding guardrails to large language models.
-
-26. [eth-sri/lmql](https://github.com/eth-sri/lmql)：A language for efficient LLM programming.
-
-27. [promptslab/Promptify](https://github.com/promptslab/Promptify)：Prompt Engineering, use GPT for structured output.
-
-28. [hegelai/prompttools](https://github.com/hegelai/prompttools)：Open - source prompt testing tools for LLMs and vectors.
-
-29. [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)：Toolkit for natural language prompt operations.
-
-30. [YiVal/YiVal](https://github.com/YiVal/YiVal)：GenAI应用的自动提示工程助手。
-
-31. [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine)：Library for helping developers craft LLM prompts
-
-32. [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge)：Open - source visual programming for prompt battle - testing.
-
-33. [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)：Official Implementation of "Graph of Thoughts"
-
-34. [ysymyth/ReAct](https://github.com/ysymyth/ReAct)：[ICLR 2023] ReAct: Reasoning and Acting in LMs
-
-35. [Microsoft/genaiscript](https://github.com/Microsoft/genaiscript)：Automatable GenAI Scripting精简后：GenAI脚本自动化
-
-36. [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic)：Integrate LLMs as Python functions seamlessly.
-
-37. [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)：[ACL 2024] Easy-to-use LLM knowledge editing framework.
-
-38. [microsoft/aici](https://github.com/microsoft/aici)：AICI: Prompts as Wasm Programs
-
-39. [zou-group/textgrad](https://github.com/zou-group/textgrad)：TextGrad: Automatic Differentiation via Text.
-
-40. [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)：LLMs应用于机器人的社区及含ChatGPT的模拟器
-
-41. [greshake/llm-security](https://github.com/greshake/llm-security)：New ways to break app - integrated LLMs
-
-42. [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)：Enforce language model output format.
-
-43. [Ber666/llm-reasoners](https://github.com/Ber666/llm-reasoners)：A library for large language model advanced reasoning
-
-44. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)：Leaked system prompts collection
+8. [jxnl/instructor](https://github.com/jxnl/instructor)：结构化的 LLM 输出。
+9. [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)：使用类似 GPT - 4 模型的技巧。
+10. [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)：GPT 系统提示与提示注入/泄露知识集。
+11. [microsoft/TypeChat](https://github.com/microsoft/TypeChat)：TypeChat 是用类型构建自然语言接口的库。
+12. [sgl-project/sglang](https://github.com/sgl-project/sglang)：SGLang 是大语言模型和视觉语言模型的快速服务框架。
+13. [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)：ICLR 2024：高效流语言模型的注意力汇聚。
+14. [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)：增强的 ChatGPT 自定义指令（非编码相关）。
+15. [civitai/civitai](https://github.com/civitai/civitai)：模型、文本反转等的资源库。
+16. [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)：AIGC 提示词可视化编辑器 | OPS | Open Prompt Studio。
+17. [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)：AI 快捷指令提升效率，提示词分享社区助力。
+18. [microsoft/promptbase](https://github.com/microsoft/promptbase)：提示工程的所有内容。
+19. [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)：构建充满乐趣的 AI 接口。
+20. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)：测试 LLM 的提示、智能体、RAG 并比较性能。
+21. [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)：NeurIPS 2023：思维树解决问题。
+22. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)：在智能体框架中使用 Pydantic 与 LLM 的垫片。
+23. [1rgs/jsonformer](https://github.com/1rgs/jsonformer)：从语言模型生成 JSON 的可靠方法。
+24. [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)：开源提示学习框架。
+25. [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)：为大型语言模型添加防护。
+26. [eth-sri/lmql](https://github.com/eth-sri/lmql)：用于高效 LLM 编程的语言。
+27. [promptslab/Promptify](https://github.com/promptslab/Promptify)：提示工程，使用 GPT 生成结构化输出。
+28. [hegelai/prompttools](https://github.com/hegelai/prompttools)：用于 LLM 和向量的开源提示测试工具。
+29. [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)：自然语言提示操作工具包。
+30. [YiVal/YiVal](https://github.com/YiVal/YiVal)：GenAI 应用的自动提示工程助手。
+31. [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine)：帮助开发者编写 LLM 提示的库。
+32. [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge)：用于提示战斗测试的开源可视化编程。
+33. [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)：“思维图”的官方实现。
+34. [ysymyth/ReAct](https://github.com/ysymyth/ReAct)：[ICLR 2023] ReAct：在语言模型中推理和行动。
+35. [Microsoft/genaiscript](https://github.com/Microsoft/genaiscript)：GenAI 脚本自动化（精简后）。
+36. [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic)：将 LLM 无缝集成作为 Python 函数。
+37. [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)：[ACL 2024] 易于使用的 LLM 知识编辑框架。
+38. [microsoft/aici](https://github.com/microsoft/aici)：AICI：将提示作为 Wasm 程序。
+39. [zou-group/textgrad](https://github.com/zou-group/textgrad)：TextGrad：通过文本的自动微分。
+40. [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)：将 LLM 应用于机器人的社区及含 ChatGPT 的模拟器。
+41. [greshake/llm-security](https://github.com/greshake/llm-security)：破坏应用集成 LLM 的新方法。
+42. [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)：强制语言模型输出格式。
+43. [Ber666/llm-reasoners](https://github.com/Ber666/llm-reasoners)：用于大型语言模型高级推理的库。
+44. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)：泄露的系统提示集合。
+45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)
 
 45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)：Security Toolkit for LLM Interactions
 
