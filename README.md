@@ -5,7 +5,12 @@
 <h3 align="center">AI Resource Central</h3>
 
   <p align="center">
-    汇集全球优秀的人工智能开源项目！
+      汇集全球优秀的人工智能开源项目！
+  </p>
+
+</p>
+
+<p align="center" >
 
 [![GitHub Contributors][github-contributors-shield]][github-contributors-link]
 [![GitHub Forks][github-forks-shield]][github-forks-link]
@@ -14,7 +19,9 @@
 [![GitHub License][github-license-shield]][github-license-link]
 
   </p>
-</p>
+
+
+欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
 
 <!-- 目录 -->
 
@@ -44,7 +51,7 @@
 [github-license-shield]: https://img.shields.io/github/license/CoderSJX/AI-Resources-Central?style=flat-square
 [github-license-link]: https://github.com/CoderSJX/AI-Resources-Central/blob/main/LICENSE
 
-欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
+
 
 ## 目标
 
