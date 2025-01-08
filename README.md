@@ -1,10 +1,56 @@
-<div align="center"><a name="readme-top"></a>
+# AI Resource Central
 
-<h1>AI Resource Central</h1>
+<p align="center">
 
+<h3 align="center">AI Resource Central</h3>
 
-</div>
-欢迎来到 AI Resource Central！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
+  <p align="center">
+    汇集全球优秀的人工智能开源项目！
+    <br />
+    <br />
+    <a href="https://github.com/CoderSJX/AI-Resources-Central">浏览仓库</a>
+    ·
+    <a href="https://github.com/CoderSJX/AI-Resources-Central/issues">报告Bug</a>
+    ·
+    <a href="https://github.com/CoderSJX/AI-Resources-Central/pulls">提出特性请求</a>
+  </p>
+</p>
+
+<!-- 目录 -->
+<details open="open">
+  <summary>目录</summary>
+  <ol>
+    <li><a href="##介绍">介绍</a></li>
+    <li><a href="##目标">目标</a></li>
+    <li><a href="##项目目录">项目目录</a></li>
+    <li><a href="##如何贡献">如何贡献</a></li>
+    <li><a href="##致谢">致谢</a></li>
+    <li><a href="##许可证">许可证</a></li>
+  </ol>
+</details>
+
+<!-- GitHub 统计数据和徽章 -->
+<p align="center">
+  [![GitHub Contributors][github-contributors-shield]][github-contributors-link]
+  [![GitHub Forks][github-forks-shield]][github-forks-link]
+  [![GitHub Stars][github-stars-shield]][github-stars-link]
+  [![GitHub Issues][github-issues-shield]][github-issues-link]
+  [![GitHub License][github-license-shield]][github-license-link]
+</p>
+
+<!-- 定义徽章 -->
+[github-contributors-shield]: https://img.shields.io/github/contributors/CoderSJX/AI-Resources-Central?style=flat-square
+[github-contributors-link]: https://github.com/CoderSJX/AI-Resources-Central/graphs/contributors
+[github-forks-shield]: https://img.shields.io/github/forks/CoderSJX/AI-Resources-Central?style=flat-square
+[github-forks-link]: https://github.com/CoderSJX/AI-Resources-Central/network/members
+[github-stars-shield]: https://img.shields.io/github/stars/CoderSJX/AI-Resources-Central?style=flat-square
+[github-stars-link]: https://github.com/CoderSJX/AI-Resources-Central/stargazers
+[github-issues-shield]: https://img.shields.io/github/issues/CoderSJX/AI-Resources-Central?style=flat-square
+[github-issues-link]: https://github.com/CoderSJX/AI-Resources-Central/issues
+[github-license-shield]: https://img.shields.io/github/license/CoderSJX/AI-Resources-Central?style=flat-square
+[github-license-link]: https://github.com/CoderSJX/AI-Resources-Central/blob/main/LICENSE
+
+欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
 
 ## 目标
 
@@ -1584,20 +1630,21 @@
 
 7. [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI)：Neum AI：大规模管理向量嵌入的框架。
 
-<!-- LINK GROUP -->
-[github-releasedate-shield]: https://img.shields.io/github/release-date/CoderSJX/AI-Resources-Central.svg (GitHub release date)
-[github-releasedate-link]: https://github.com/CoderSJX/AI-Resources-Central/releases/latest (Latest GitHub release)
-[github-action-test-shield]: https://github.com/CoderSJX/AI-Resources-Central/workflows/Test/badge.svg (GitHub Actions test status)
-[github-action-test-link]: https://github.com/CoderSJX/AI-Resources-Central/actions?query=workflow%3ATest (GitHub Actions test page)
-[github-action-release-shield]: https://github.com/CoderSJX/AI-Resources-Central/workflows/Release/badge.svg (GitHub Actions release status)
-[github-action-release-link]: https://github.com/CoderSJX/AI-Resources-Central/actions?query=workflow%3ARelease (GitHub Actions release page)
-[github-contributors-shield]: https://img.shields.io/github/contributors/CoderSJX/AI-Resources-Central.svg (GitHub contributors count)
-[github-contributors-link]: https://github.com/CoderSJX/AI-Resources-Central/graphs/contributors (GitHub contributors page)
-[github-forks-shield]: https://img.shields.io/github/forks/CoderSJX/AI-Resources-Central.svg (GitHub forks count)
-[github-forks-link]: https://github.com/CoderSJX/AI-Resources-Central/network/members (GitHub forks page)
-[github-stars-shield]: https://img.shields.io/github/stars/CoderSJX/AI-Resources-Central.svg (GitHub stars count)
-[github-stars-link]: https://github.com/CoderSJX/AI-Resources-Central/stargazers (GitHub stargazers page)
-[github-issues-shield]: https://img.shields.io/github/issues/CoderSJX/AI-Resources-Central.svg (GitHub issues count)
-[github-issues-link]: https://github.com/CoderSJX/AI-Resources-Central/issues (GitHub issues page)
-[github-license-shield]: https://img.shields.io/github/license/CoderSJX/AI-Resources-Central.svg (GitHub license)
-[github-license-link]: https://github.com/CoderSJX/AI-Resources-Central/blob/master/LICENSE (GitHub license file)
+## 如何贡献
+
+我们非常欢迎您对本仓库做出贡献。您可以：
+
+- 提交新的AI项目或资源链接。
+- 改进现有项目的描述或分类。
+- 报告问题或提出改进建议。
+- 参与讨论并帮助其他成员解决问题。
+
+请阅读我们的[贡献指南](CONTRIBUTING.md)了解更多细节。
+
+## 致谢
+
+感谢所有为本仓库做出贡献的开发者们！您的努力使这个社区变得更加丰富和有价值。
+
+## 许可证
+
+本项目采用MIT许可证进行授权 - 详情参见[LICENSE](LICENSE)文件。
