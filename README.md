@@ -1,5 +1,17 @@
-## 简介
+<div align="center"><a name="readme-top"></a>
 
+<h1>AI Resource Central</h1>
+[![website][website-shield]][website-url]
+[![][npm-release-shield]][npm-release-link]
+
+<br/>
+[![][github-contributors-shield]][github-contributors-link]
+[![][github-forks-shield]][github-forks-link]
+[![][github-stars-shield]][github-stars-link]
+[![][github-issues-shield]][github-issues-link]
+[![][github-license-shield]][github-license-link]
+
+</div>
 欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
 
 ## 目标
@@ -1580,3 +1592,24 @@
 
 7. [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI)：Neum AI：大规模管理向量嵌入的框架。
 
+<!-- MARKDOWN LINKS & SHIELDS -->
+[website-shield]: https://img.shields.io/website-up-down-green-red/https/yourwebsite.com.svg?label=Website&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfApMahkJeeLsXIiAqAIENtDIEMfBAxJgGyegMErPz/8ZwAEUjWBF1MiDdpgAAAABJRU5ErkJggg== (Website status)
+[website-url]: https://yourwebsite.com (Your website URL)
+[npm-release-shield]: https://img.shields.io/npm/v/package_name.svg (NPM version)
+[npm-release-link]: https://www.npmjs.com/package/package_name (NPM package page)
+[github-releasedate-shield]: https://img.shields.io/github/release-date/CoderSJX/AI-Resources-Central.svg (GitHub release date)
+[github-releasedate-link]: https://github.com/CoderSJX/AI-Resources-Central/releases/latest (Latest GitHub release)
+[github-action-test-shield]: https://github.com/CoderSJX/AI-Resources-Central/workflows/Test/badge.svg (GitHub Actions test status)
+[github-action-test-link]: https://github.com/CoderSJX/AI-Resources-Central/actions?query=workflow%3ATest (GitHub Actions test page)
+[github-action-release-shield]: https://github.com/CoderSJX/AI-Resources-Central/workflows/Release/badge.svg (GitHub Actions release status)
+[github-action-release-link]: https://github.com/CoderSJX/AI-Resources-Central/actions?query=workflow%3ARelease (GitHub Actions release page)
+[github-contributors-shield]: https://img.shields.io/github/contributors/CoderSJX/AI-Resources-Central.svg (GitHub contributors count)
+[github-contributors-link]: https://github.com/CoderSJX/AI-Resources-Central/graphs/contributors (GitHub contributors page)
+[github-forks-shield]: https://img.shields.io/github/forks/CoderSJX/AI-Resources-Central.svg (GitHub forks count)
+[github-forks-link]: https://github.com/CoderSJX/AI-Resources-Central/network/members (GitHub forks page)
+[github-stars-shield]: https://img.shields.io/github/stars/CoderSJX/AI-Resources-Central.svg (GitHub stars count)
+[github-stars-link]: https://github.com/CoderSJX/AI-Resources-Central/stargazers (GitHub stargazers page)
+[github-issues-shield]: https://img.shields.io/github/issues/CoderSJX/AI-Resources-Central.svg (GitHub issues count)
+[github-issues-link]: https://github.com/CoderSJX/AI-Resources-Central/issues (GitHub issues page)
+[github-license-shield]: https://img.shields.io/github/license/CoderSJX/AI-Resources-Central.svg (GitHub license)
+[github-license-link]: https://github.com/CoderSJX/AI-Resources-Central/blob/master/LICENSE (GitHub license file)
