@@ -1,15 +1,19 @@
-# AI Resources Central
-
 ## 简介
-欢迎来到AI Resources Central！旨在收集、整理并分享与人工智能（AI）相关的网站、工具、教程、文献和其他有价值的资源。无论你是AI领域的初学者，还是经验丰富的从业者，这里都可能找到对你有用的信息。
+
+欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
 
 ## 目标
-- 提供一个高质量的AI资源目录。
-- 促进AI知识的传播和交流。
-- 鼓励人们贡献他们发现的优秀资源。
 
+我们的主要目标是：
 
-## 资源目录
+- **建立全面的AI项目库**：涵盖机器学习、深度学习、自然语言处理等广泛领域的项目。
+- **促进开源精神**：通过展示高质量的开源项目，鼓励更多人参与到开源社区中。
+- **推动技术创新**：为开发者提供实际案例和解决方案，加速AI技术的应用和发展。
+- **支持学习与发展**：为不同水平的学习者提供实践机会，帮助他们掌握最新的AI工具和技术。
+
+## 项目目录
+
+以下是我们按照不同领域分类的部分精选AI项目列表：
 
 ### 建模与训练
 
@@ -247,7 +251,7 @@
 
 117. [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager)：A platform for managing machine learning exp.
 
-### 代理
+### 智能体
 
 1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：AutoGPT: accessible AI tools for focused use.
 
@@ -1101,7 +1105,7 @@
 
 60. [ferrislucas/promptr](https://github.com/ferrislucas/promptr)：Promptr是用英语指令GPT修改代码的CLI工具。
 
-### 教程
+### 学习教程
 
 1. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)：21 Lessons for Starting with Generative AI
 2. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)：OpenAI API使用示例与指南
@@ -1131,7 +1135,7 @@
 26. [ianand/spreadsheets-are-all-you-need](https://github.com/ianand/spreadsheets-are-all-you-need)
 27. [majacinka/crewai-experiments](https://github.com/majacinka/crewai-experiments)：Experiments with local and API-available models
 
-### 图像制作
+### 图像生成
 
 1. [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)：Stable Diffusion web UI
 
@@ -1197,7 +1201,7 @@
 
 7. [Dicklesworthstone/swiss_army_llama](https://github.com/Dicklesworthstone/swiss_army_llama)：FastAPI服务用于语义文本搜索，支持多种文件类型。
 
-### 机器人
+### 机器人、桌面应用
 
 1. [lencx/ChatGPT](https://github.com/lencx/ChatGPT)：ChatGPT桌面应用（Mac、Windows和Linux）
 
@@ -1333,7 +1337,7 @@
 
 22. [Xwin-LM/Xwin-LM](https://github.com/Xwin-LM/Xwin-LM)：Xwin - LM: 强大、稳定、可复现的LLM对齐
 
-### 多模态
+### 多模态模型
 
 1. [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)：Multilingual OCR toolkits based on PaddlePaddle.
 
@@ -1557,7 +1561,7 @@
 
 16. [andrewnguonly/Lumos](https://github.com/andrewnguonly/Lumos)：A RAG LLM web-browsing co - pilot powered by local LLMs
 
-### 服务
+### 智能服务
 
 1. [vllm-project/vllm](https://github.com/vllm-project/vllm)：High - throughput, memory - efficient LLM inference engine
 
@@ -1660,7 +1664,7 @@
 
 
 
-### 工具
+### 开发工具
 
 1. [jina-ai/jina](https://github.com/jina-ai/jina)：Build multimodal AI apps with cloud - native stack
 
@@ -1784,7 +1788,7 @@
 
 48. [HazyResearch/meerkat](https://github.com/HazyResearch/meerkat)：Creative interactive views of datasets.
 
-### 评估
+### 模型评估
 
 1. [openai/evals](https://github.com/openai/evals)：Evals: LLM评估框架与开源基准注册库。
 
@@ -1896,7 +1900,7 @@
 
 7. [Haidra-Org/AI-Horde](https://github.com/Haidra-Org/AI-Horde)：A crowdsourced distributed cluster for AI creation
 
-### 写作
+### 智能写作
 
 1. [steven-tey/novel](https://github.com/steven-tey/novel)：Notion式所见即所得编辑器，AI自动补全。
 
@@ -1914,7 +1918,7 @@
 
 8. [google-deepmind/dramatron](https://github.com/google-deepmind/dramatron)：Dramatron用大语言模型生成脚本和剧本。
 
-### 清单
+### 相关清单
 
 1. [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents)：A list of AI autonomous agents
 
@@ -1942,7 +1946,7 @@
 
 13. [yokoffing/ChatGPT-Prompts](https://github.com/yokoffing/ChatGPT-Prompts)：ChatGPT与Bing AI的提示语管理
 
-### 监控
+### LLM监控
 
 1. [langfuse/langfuse](https://github.com/langfuse/langfuse)：Open source LLM engineering platform with integrations.
 
