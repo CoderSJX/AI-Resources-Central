@@ -1,6 +1,7 @@
 <div align="center"><a name="readme-top"></a>
 
 <h1>AI Resource Central</h1>
+<!-- SHIELD GROUP -->
 [![website][website-shield]][website-url]
 [![][npm-release-shield]][npm-release-link]
 
