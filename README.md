@@ -15,243 +15,7 @@
 
 以下是我们按照不同领域分类的部分精选AI项目列表：
 
-### 建模与训练
-
-1. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)：An Open Source Machine Learning Framework
-
-2. [huggingface/transformers](https://github.com/huggingface/transformers)：Transformers: 用于多种框架的机器学习
-
-3. [pytorch/pytorch](https://github.com/pytorch/pytorch)：Tensors和Python动态神经网络及GPU加速
-
-4. [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)：Make large AI models cheaper, faster, more accessible
-
-5. [lm-sys/FastChat](https://github.com/lm-sys/FastChat)：Open platform for large language model tasks.
-
-6. [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：Unified Efficient Fine - Tuning of 100+ LLMs
-
-7. [coqui-ai/TTS](https://github.com/coqui-ai/TTS)：🐸💬 - 深度学习文本到语音工具包。
-
-8. [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)：DeepSpeed优化深度学习，使训练和推理更便捷。
-
-9. [ray-project/ray](https://github.com/ray-project/ray)：Ray是AI计算引擎，含核心运行时和AI库。
-
-10. [google-research/google-research](https://github.com/google-research/google-research)：Google Research
-
-11. [google/jax](https://github.com/google/jax)：Python+NumPy程序的组合变换：多种操作
-
-12. [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)：OpenMMLab检测工具箱与基准测试
-
-13. [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)：You like pytorch? Love tinygrad!
-
-14. [huggingface/diffusers](https://github.com/huggingface/diffusers)：Diffusers: PyTorch/FLAX的图像等生成模型。
-
-15. [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)：DeepSpeech是开源嵌入式语音转文本引擎。
-
-16. [modularml/mojo](https://github.com/modularml/mojo)：Mojo编程语言。
-
-17. [microsoft/unilm](https://github.com/microsoft/unilm)：Large-scale self-supervised pre-training multi-dimensionally
-
-18. [ml-explore/mlx](https://github.com/ml-explore/mlx)：MLX: Apple silicon数组框架。
-
-19. [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)：A high - level, massively parallel programming language
-
-20. [huggingface/peft](https://github.com/huggingface/peft)：PEFT: 高效参数微调的前沿技术。
-
-21. [huggingface/candle](https://github.com/huggingface/candle)：Minimalist Rust ML framework.
-
-22. [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)：A scalable generative AI framework for related AI work.
-
-23. [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)：Powerful NLP/LLM library for various NLP tasks.
-
-24. [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)：Easy - to - use Speech Toolkit and its functions.
-
-25. [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)：20+高性能LLMs的预训练、微调与大规模部署
-
-26. [huggingface/trl](https://github.com/huggingface/trl)：Train transformer models with reinforcement learning.
-
-27. [artidoro/qlora](https://github.com/artidoro/qlora)：QLoRA: 量化LLMs的高效微调
-
-28. [salesforce/LAVIS](https://github.com/salesforce/LAVIS)：LAVIS：语言 - 视觉智能一站式库
-
-29. [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)：NeRFs的协作友好工作室
-
-30. [mozilla/TTS](https://github.com/mozilla/TTS)：Deep learning for Text to Speech
-
-31. [tracel-ai/burn](https://github.com/tracel-ai/burn)：Burn是用Rust构建的深度学习框架。
-
-32. [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)：PyTorch3D: FAIR's 3D deep learning component library
-
-33. [facebookresearch/xformers](https://github.com/facebookresearch/xformers)：Hackable, optimized Transformers building blocks.
-
-34. [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)：An extensible toolkit for finetuning large models.
-
-35. [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)：Go ahead and ask questions
-
-36. [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)：Retrieval与检索增强型大型语言模型
-
-37. [huggingface/accelerate](https://github.com/huggingface/accelerate)：简单方式在多设备使用PyTorch模型
-
-38. [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)：BELLE：开源中文对话大模型。
-
-39. [cloneofsimo/lora](https://github.com/cloneofsimo/lora)：Using low - rank adaptation to fine - tune diffusion models.
-
-40. [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)：Model parallel autoregressive transformers on GPUs.
-
-41. [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)：OpenMMLab工具箱：AIGC、模型库等功能
-
-42. [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq)：Repo for external large - scale work
-
-43. [Maartengr/BERTopic](https://github.com/Maartengr/BERTopic)：Using BERT and c - TF - IDF for interpretable topics.
-
-44. [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)：AI Toolkit for Healthcare Imaging
-
-45. [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)：Firefly：支持多种大模型训练的工具。
-
-46. [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
-
-47. [mosaicml/composer](https://github.com/mosaicml/composer)：Supercharge Model Training
-
-48. [cg123/mergekit](https://github.com/cg123/mergekit)：Tools for merging pretrained large language models.
-
-49. [CarperAI/trlx](https://github.com/CarperAI/trlx)：A repo for distributed RLHF language model training
-
-50. [pytorch/torchtune](https://github.com/pytorch/torchtune)：PyTorch原生训练后库
-
-51. [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)：OpenSpiel：游戏强化学习与搜索规划研究。
-
-52. [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced)：AutoTrain Advanced
-
-53. [InternLM/xtuner](https://github.com/InternLM/xtuner)：Toolkit for fine - tuning various LLMs.
-
-54. [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry)：LLM训练代码用于Databricks基础模型
-
-55. [baidu-research/warp-ctc](https://github.com/baidu-research/warp-ctc)：Fast parallel CTC精简版。
-
-56. [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp)：State of the Art Natural Language Processing
-
-57. [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI)：FlagAI是大规模模型的易用扩展工具包。
-
-58. [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo)：An open - source framework for training large models.
-
-59. [google-deepmind/acme](https://github.com/google-deepmind/acme)：强化学习组件与代理的库
-
-60. [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)：An Easy - to - use RLHF Framework with high performance
-
-61. [open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)：OpenMMLab预训练工具箱与基准测试
-
-62. [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT)：MedicalGPT训练医疗大模型的多阶段实现。
-
-63. [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm)：Integrate LLMs into scikit - learn seamlessly.
-
-64. [google-research/scenic](https://github.com/google-research/scenic)：Scenic: Jax库用于计算机视觉研究等
-
-65. [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)：PyTorch扩展，用于高性能大规模训练。
-
-66. [THUDM/GLM](https://github.com/THUDM/GLM)：GLM：通用语言模型。
-
-67. [alpa-projects/alpa](https://github.com/alpa-projects/alpa)：Training large neural networks with auto parallelization.
-
-68. [microsoft/torchscale](https://github.com/microsoft/torchscale)：Foundation Architecture for MLLMs
-
-69. [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku)：JAX的神经网络库
-
-70. [eureka-research/Eureka](https://github.com/eureka-research/Eureka)：Official Repository for "Eureka" (ICLR 2024).
-
-71. [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)：An open - source LLM development toolkit.
-
-72. [google-research/t5x](https://github.com/google-research/t5x)
-
-73. [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor)
-
-74. [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)：统一接口便于使用，欢迎开源爱好者PR
-
-75. [huggingface/optimum](https://github.com/huggingface/optimum)：Accelerate Transformers等硬件优化工具
-
-76. [stochasticai/xTuring](https://github.com/stochasticai/xTuring)：Build and customize LLMs with xTuring easily.
-
-77. [adapter-hub/adapters](https://github.com/adapter-hub/adapters)：A Unified Library for Parameter - Efficient Transfer Learning
-
-78. [openai/weak-to-strong](https://github.com/openai/weak-to-strong)
-
-79. [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe)：Turn expensive prompts into cheap fine - tuned models
-
-80. [lamini-ai/lamini](https://github.com/lamini-ai/lamini)：Python官方Lamini API客户端
-
-81. [google-research/big_vision](https://github.com/google-research/big_vision)：Official codebase for Vision Transformer etc.
-
-82. [young-geng/EasyLM](https://github.com/young-geng/EasyLM)：EasyLM: one - stop JAX/Flax LLM solution.
-
-83. [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro)：Probabilistic programming with NumPy via JAX.
-
-84. [eric-mitchell/direct-preference-optimization](https://github.com/eric-mitchell/direct-preference-optimization)：DPO（直接偏好优化）的参考实现。
-
-85. [huggingface/setfit](https://github.com/huggingface/setfit)：Sentence Transformers高效少样本学习
-
-86. [allenai/RL4LMs](https://github.com/allenai/RL4LMs)：A modular RL library for fine - tuning language models.
-
-87. [allenai/open-instruct](https://github.com/allenai/open-instruct)
-
-88. [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner)：Simple UI for LLM model finetuning
-
-89. [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2)：Deep prompt tuning strategy comparable to fine - tuning.
-
-90. [tensorflow/privacy](https://github.com/tensorflow/privacy)：Library for private training of machine learning models
-
-91. [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding)：ACL 2023：Instruction - Finetuned Text Embeddings
-
-92. [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn)：2-2000x faster ML algos, less memory, all hardware.
-
-93. [salesforce/ctrl](https://github.com/salesforce/ctrl)：Conditional Transformer用于可控生成的语言模型
-
-94. [google-deepmind/optax](https://github.com/google-deepmind/optax)：Optax：JAX的梯度处理与优化库。
-
-95. [google-deepmind/penzai](https://github.com/google-deepmind/penzai)：A JAX toolkit for neural networks.
-
-96. [microsoft/i-Code](https://github.com/microsoft/i-Code)
-
-97. [kubeflow/training-operator](https://github.com/kubeflow/training-operator)：Distributed ML training & fine - tuning on Kubernetes
-
-98. [AetherCortex/Llama-X](https://github.com/AetherCortex/Llama-X)：Open Academic Research on Improving LLaMA to SOTA
-
-99. [salesforce/ALBEF](https://github.com/salesforce/ALBEF)：Code for ALBEF: new vision - language pre - training
-
-100. [kubeflow/katib](https://github.com/kubeflow/katib)：Automated Machine Learning on Kubernetes
-
-101. [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal)：TorchMultimodal: PyTorch库用于多模态多任务模型
-
-102. [jina-ai/finetuner](https://github.com/jina-ai/finetuner)：Task - oriented embedding tuning for BERT, CLIP.
-
-103. [salesforce/CodeTF](https://github.com/salesforce/CodeTF)：CodeTF: 代码LLM一站式Transformer库
-
-104. [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora)：Training LLMs via QLoRA + FSDP
-
-105. [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc)：PyTorch中的通用NeRF加速工具箱。
-
-106. [jquesnelle/yarn](https://github.com/jquesnelle/yarn)：YaRN: 大型语言模型的高效上下文窗口扩展
-
-107. [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf)：Safe RLHF: Constrained Value Alignment by Safe RLHF
-
-108. [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)：MetaAI的自奖励语言模型训练框架的实现。
-
-109. [OpenLMLab/MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)：Secrets of RLHF in LLMs Part I: PPO
-
-110. [AlibabaResearch/DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI)：DAMO - ConvAI：Alibaba DAMO Conversational AI codebase.
-
-111. [databricks/megablocks](https://github.com/databricks/megablocks)
-
-112. [AGI-Edgerunners/LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)：Code for 2023 EMNLP paper on LLM - Adapters.
-
-113. [KhoomeiK/LlamaGym](https://github.com/KhoomeiK/LlamaGym)：Fine - tune LLM agents via online reinforcement learning
-
-114. [thunlp/OpenDelta](https://github.com/thunlp/OpenDelta)：A plug - and - play library for Delta Tuning.
-
-115. [Liuhong99/Sophia](https://github.com/Liuhong99/Sophia)：Sophia：语言模型预训练的二阶优化器实现
-
-116. [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender)：LLM - Blender框架融合多LLM优势提升能力。
-
-117. [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager)：A platform for managing machine learning exp.
-
-### 智能体
+### 智能体开发
 
 1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：AutoGPT: accessible AI tools for focused use.
 
@@ -1883,6 +1647,244 @@
 46. [hsiehjackson/RULER](https://github.com/hsiehjackson/RULER)：RULER长上下文语言模型的源代码库
 
 47. [tatsu-lab/alpaca_eval](https://github.com/tatsu-lab/alpaca_eval)：Instruction - following language models automatic evaluator.
+
+
+
+### 建模与训练
+
+1. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)：An Open Source Machine Learning Framework
+
+2. [huggingface/transformers](https://github.com/huggingface/transformers)：Transformers: 用于多种框架的机器学习
+
+3. [pytorch/pytorch](https://github.com/pytorch/pytorch)：Tensors和Python动态神经网络及GPU加速
+
+4. [hpcaitech/ColossalAI](https://github.com/hpcaitech/ColossalAI)：Make large AI models cheaper, faster, more accessible
+
+5. [lm-sys/FastChat](https://github.com/lm-sys/FastChat)：Open platform for large language model tasks.
+
+6. [hiyouga/LLaMA-Factory](https://github.com/hiyouga/LLaMA-Factory)：Unified Efficient Fine - Tuning of 100+ LLMs
+
+7. [coqui-ai/TTS](https://github.com/coqui-ai/TTS)：🐸💬 - 深度学习文本到语音工具包。
+
+8. [microsoft/DeepSpeed](https://github.com/microsoft/DeepSpeed)：DeepSpeed优化深度学习，使训练和推理更便捷。
+
+9. [ray-project/ray](https://github.com/ray-project/ray)：Ray是AI计算引擎，含核心运行时和AI库。
+
+10. [google-research/google-research](https://github.com/google-research/google-research)：Google Research
+
+11. [google/jax](https://github.com/google/jax)：Python+NumPy程序的组合变换：多种操作
+
+12. [open-mmlab/mmdetection](https://github.com/open-mmlab/mmdetection)：OpenMMLab检测工具箱与基准测试
+
+13. [tinygrad/tinygrad](https://github.com/tinygrad/tinygrad)：You like pytorch? Love tinygrad!
+
+14. [huggingface/diffusers](https://github.com/huggingface/diffusers)：Diffusers: PyTorch/FLAX的图像等生成模型。
+
+15. [mozilla/DeepSpeech](https://github.com/mozilla/DeepSpeech)：DeepSpeech是开源嵌入式语音转文本引擎。
+
+16. [modularml/mojo](https://github.com/modularml/mojo)：Mojo编程语言。
+
+17. [microsoft/unilm](https://github.com/microsoft/unilm)：Large-scale self-supervised pre-training multi-dimensionally
+
+18. [ml-explore/mlx](https://github.com/ml-explore/mlx)：MLX: Apple silicon数组框架。
+
+19. [HigherOrderCO/Bend](https://github.com/HigherOrderCO/Bend)：A high - level, massively parallel programming language
+
+20. [huggingface/peft](https://github.com/huggingface/peft)：PEFT: 高效参数微调的前沿技术。
+
+21. [huggingface/candle](https://github.com/huggingface/candle)：Minimalist Rust ML framework.
+
+22. [NVIDIA/NeMo](https://github.com/NVIDIA/NeMo)：A scalable generative AI framework for related AI work.
+
+23. [PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)：Powerful NLP/LLM library for various NLP tasks.
+
+24. [PaddlePaddle/PaddleSpeech](https://github.com/PaddlePaddle/PaddleSpeech)：Easy - to - use Speech Toolkit and its functions.
+
+25. [Lightning-AI/litgpt](https://github.com/Lightning-AI/litgpt)：20+高性能LLMs的预训练、微调与大规模部署
+
+26. [huggingface/trl](https://github.com/huggingface/trl)：Train transformer models with reinforcement learning.
+
+27. [artidoro/qlora](https://github.com/artidoro/qlora)：QLoRA: 量化LLMs的高效微调
+
+28. [salesforce/LAVIS](https://github.com/salesforce/LAVIS)：LAVIS：语言 - 视觉智能一站式库
+
+29. [nerfstudio-project/nerfstudio](https://github.com/nerfstudio-project/nerfstudio)：NeRFs的协作友好工作室
+
+30. [mozilla/TTS](https://github.com/mozilla/TTS)：Deep learning for Text to Speech
+
+31. [tracel-ai/burn](https://github.com/tracel-ai/burn)：Burn是用Rust构建的深度学习框架。
+
+32. [facebookresearch/pytorch3d](https://github.com/facebookresearch/pytorch3d)：PyTorch3D: FAIR's 3D deep learning component library
+
+33. [facebookresearch/xformers](https://github.com/facebookresearch/xformers)：Hackable, optimized Transformers building blocks.
+
+34. [OptimalScale/LMFlow](https://github.com/OptimalScale/LMFlow)：An extensible toolkit for finetuning large models.
+
+35. [OpenAccess-AI-Collective/axolotl](https://github.com/OpenAccess-AI-Collective/axolotl)：Go ahead and ask questions
+
+36. [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding)：Retrieval与检索增强型大型语言模型
+
+37. [huggingface/accelerate](https://github.com/huggingface/accelerate)：简单方式在多设备使用PyTorch模型
+
+38. [LianjiaTech/BELLE](https://github.com/LianjiaTech/BELLE)：BELLE：开源中文对话大模型。
+
+39. [cloneofsimo/lora](https://github.com/cloneofsimo/lora)：Using low - rank adaptation to fine - tune diffusion models.
+
+40. [EleutherAI/gpt-neox](https://github.com/EleutherAI/gpt-neox)：Model parallel autoregressive transformers on GPUs.
+
+41. [open-mmlab/mmagic](https://github.com/open-mmlab/mmagic)：OpenMMLab工具箱：AIGC、模型库等功能
+
+42. [facebookresearch/metaseq](https://github.com/facebookresearch/metaseq)：Repo for external large - scale work
+
+43. [Maartengr/BERTopic](https://github.com/Maartengr/BERTopic)：Using BERT and c - TF - IDF for interpretable topics.
+
+44. [Project-MONAI/MONAI](https://github.com/Project-MONAI/MONAI)：AI Toolkit for Healthcare Imaging
+
+45. [yangjianxin1/Firefly](https://github.com/yangjianxin1/Firefly)：Firefly：支持多种大模型训练的工具。
+
+46. [google-deepmind/graphcast](https://github.com/google-deepmind/graphcast)
+
+47. [mosaicml/composer](https://github.com/mosaicml/composer)：Supercharge Model Training
+
+48. [cg123/mergekit](https://github.com/cg123/mergekit)：Tools for merging pretrained large language models.
+
+49. [CarperAI/trlx](https://github.com/CarperAI/trlx)：A repo for distributed RLHF language model training
+
+50. [pytorch/torchtune](https://github.com/pytorch/torchtune)：PyTorch原生训练后库
+
+51. [google-deepmind/open_spiel](https://github.com/google-deepmind/open_spiel)：OpenSpiel：游戏强化学习与搜索规划研究。
+
+52. [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced)：AutoTrain Advanced
+
+53. [InternLM/xtuner](https://github.com/InternLM/xtuner)：Toolkit for fine - tuning various LLMs.
+
+54. [mosaicml/llm-foundry](https://github.com/mosaicml/llm-foundry)：LLM训练代码用于Databricks基础模型
+
+55. [baidu-research/warp-ctc](https://github.com/baidu-research/warp-ctc)：Fast parallel CTC精简版。
+
+56. [JohnSnowLabs/spark-nlp](https://github.com/JohnSnowLabs/spark-nlp)：State of the Art Natural Language Processing
+
+57. [FlagAI-Open/FlagAI](https://github.com/FlagAI-Open/FlagAI)：FlagAI是大规模模型的易用扩展工具包。
+
+58. [mlfoundations/open_flamingo](https://github.com/mlfoundations/open_flamingo)：An open - source framework for training large models.
+
+59. [google-deepmind/acme](https://github.com/google-deepmind/acme)：强化学习组件与代理的库
+
+60. [OpenLLMAI/OpenRLHF](https://github.com/OpenLLMAI/OpenRLHF)：An Easy - to - use RLHF Framework with high performance
+
+61. [open-mmlab/mmpretrain](https://github.com/open-mmlab/mmpretrain)：OpenMMLab预训练工具箱与基准测试
+
+62. [shibing624/MedicalGPT](https://github.com/shibing624/MedicalGPT)：MedicalGPT训练医疗大模型的多阶段实现。
+
+63. [iryna-kondr/scikit-llm](https://github.com/iryna-kondr/scikit-llm)：Integrate LLMs into scikit - learn seamlessly.
+
+64. [google-research/scenic](https://github.com/google-research/scenic)：Scenic: Jax库用于计算机视觉研究等
+
+65. [facebookresearch/fairscale](https://github.com/facebookresearch/fairscale)：PyTorch扩展，用于高性能大规模训练。
+
+66. [THUDM/GLM](https://github.com/THUDM/GLM)：GLM：通用语言模型。
+
+67. [alpa-projects/alpa](https://github.com/alpa-projects/alpa)：Training large neural networks with auto parallelization.
+
+68. [microsoft/torchscale](https://github.com/microsoft/torchscale)：Foundation Architecture for MLLMs
+
+69. [google-deepmind/dm-haiku](https://github.com/google-deepmind/dm-haiku)：JAX的神经网络库
+
+70. [eureka-research/Eureka](https://github.com/eureka-research/Eureka)：Official Repository for "Eureka" (ICLR 2024).
+
+71. [Alpha-VLLM/LLaMA2-Accessory](https://github.com/Alpha-VLLM/LLaMA2-Accessory)：An open - source LLM development toolkit.
+
+72. [google-research/t5x](https://github.com/google-research/t5x)
+
+73. [google-deepmind/alphatensor](https://github.com/google-deepmind/alphatensor)
+
+74. [PhoebusSi/Alpaca-CoT](https://github.com/PhoebusSi/Alpaca-CoT)：统一接口便于使用，欢迎开源爱好者PR
+
+75. [huggingface/optimum](https://github.com/huggingface/optimum)：Accelerate Transformers等硬件优化工具
+
+76. [stochasticai/xTuring](https://github.com/stochasticai/xTuring)：Build and customize LLMs with xTuring easily.
+
+77. [adapter-hub/adapters](https://github.com/adapter-hub/adapters)：A Unified Library for Parameter - Efficient Transfer Learning
+
+78. [openai/weak-to-strong](https://github.com/openai/weak-to-strong)
+
+79. [OpenPipe/OpenPipe](https://github.com/OpenPipe/OpenPipe)：Turn expensive prompts into cheap fine - tuned models
+
+80. [lamini-ai/lamini](https://github.com/lamini-ai/lamini)：Python官方Lamini API客户端
+
+81. [google-research/big_vision](https://github.com/google-research/big_vision)：Official codebase for Vision Transformer etc.
+
+82. [young-geng/EasyLM](https://github.com/young-geng/EasyLM)：EasyLM: one - stop JAX/Flax LLM solution.
+
+83. [pyro-ppl/numpyro](https://github.com/pyro-ppl/numpyro)：Probabilistic programming with NumPy via JAX.
+
+84. [eric-mitchell/direct-preference-optimization](https://github.com/eric-mitchell/direct-preference-optimization)：DPO（直接偏好优化）的参考实现。
+
+85. [huggingface/setfit](https://github.com/huggingface/setfit)：Sentence Transformers高效少样本学习
+
+86. [allenai/RL4LMs](https://github.com/allenai/RL4LMs)：A modular RL library for fine - tuning language models.
+
+87. [allenai/open-instruct](https://github.com/allenai/open-instruct)
+
+88. [lxe/simple-llm-finetuner](https://github.com/lxe/simple-llm-finetuner)：Simple UI for LLM model finetuning
+
+89. [THUDM/P-tuning-v2](https://github.com/THUDM/P-tuning-v2)：Deep prompt tuning strategy comparable to fine - tuning.
+
+90. [tensorflow/privacy](https://github.com/tensorflow/privacy)：Library for private training of machine learning models
+
+91. [xlang-ai/instructor-embedding](https://github.com/xlang-ai/instructor-embedding)：ACL 2023：Instruction - Finetuned Text Embeddings
+
+92. [unslothai/hyperlearn](https://github.com/unslothai/hyperlearn)：2-2000x faster ML algos, less memory, all hardware.
+
+93. [salesforce/ctrl](https://github.com/salesforce/ctrl)：Conditional Transformer用于可控生成的语言模型
+
+94. [google-deepmind/optax](https://github.com/google-deepmind/optax)：Optax：JAX的梯度处理与优化库。
+
+95. [google-deepmind/penzai](https://github.com/google-deepmind/penzai)：A JAX toolkit for neural networks.
+
+96. [microsoft/i-Code](https://github.com/microsoft/i-Code)
+
+97. [kubeflow/training-operator](https://github.com/kubeflow/training-operator)：Distributed ML training & fine - tuning on Kubernetes
+
+98. [AetherCortex/Llama-X](https://github.com/AetherCortex/Llama-X)：Open Academic Research on Improving LLaMA to SOTA
+
+99. [salesforce/ALBEF](https://github.com/salesforce/ALBEF)：Code for ALBEF: new vision - language pre - training
+
+100. [kubeflow/katib](https://github.com/kubeflow/katib)：Automated Machine Learning on Kubernetes
+
+101. [facebookresearch/multimodal](https://github.com/facebookresearch/multimodal)：TorchMultimodal: PyTorch库用于多模态多任务模型
+
+102. [jina-ai/finetuner](https://github.com/jina-ai/finetuner)：Task - oriented embedding tuning for BERT, CLIP.
+
+103. [salesforce/CodeTF](https://github.com/salesforce/CodeTF)：CodeTF: 代码LLM一站式Transformer库
+
+104. [AnswerDotAI/fsdp_qlora](https://github.com/AnswerDotAI/fsdp_qlora)：Training LLMs via QLoRA + FSDP
+
+105. [nerfstudio-project/nerfacc](https://github.com/nerfstudio-project/nerfacc)：PyTorch中的通用NeRF加速工具箱。
+
+106. [jquesnelle/yarn](https://github.com/jquesnelle/yarn)：YaRN: 大型语言模型的高效上下文窗口扩展
+
+107. [PKU-Alignment/safe-rlhf](https://github.com/PKU-Alignment/safe-rlhf)：Safe RLHF: Constrained Value Alignment by Safe RLHF
+
+108. [lucidrains/self-rewarding-lm-pytorch](https://github.com/lucidrains/self-rewarding-lm-pytorch)：MetaAI的自奖励语言模型训练框架的实现。
+
+109. [OpenLMLab/MOSS-RLHF](https://github.com/OpenLMLab/MOSS-RLHF)：Secrets of RLHF in LLMs Part I: PPO
+
+110. [AlibabaResearch/DAMO-ConvAI](https://github.com/AlibabaResearch/DAMO-ConvAI)：DAMO - ConvAI：Alibaba DAMO Conversational AI codebase.
+
+111. [databricks/megablocks](https://github.com/databricks/megablocks)
+
+112. [AGI-Edgerunners/LLM-Adapters](https://github.com/AGI-Edgerunners/LLM-Adapters)：Code for 2023 EMNLP paper on LLM - Adapters.
+
+113. [KhoomeiK/LlamaGym](https://github.com/KhoomeiK/LlamaGym)：Fine - tune LLM agents via online reinforcement learning
+
+114. [thunlp/OpenDelta](https://github.com/thunlp/OpenDelta)：A plug - and - play library for Delta Tuning.
+
+115. [Liuhong99/Sophia](https://github.com/Liuhong99/Sophia)：Sophia：语言模型预训练的二阶优化器实现
+
+116. [yuchenlin/LLM-Blender](https://github.com/yuchenlin/LLM-Blender)：LLM - Blender框架融合多LLM优势提升能力。
+
+117. [google-deepmind/xmanager](https://github.com/google-deepmind/xmanager)：A platform for managing machine learning exp.
 
 ### 计算管理
 
