@@ -29,16 +29,7 @@
   </ol>
 </details>
 
-<!-- GitHub 统计数据和徽章 -->
-<p align="center">
-  [![GitHub Contributors][github-contributors-shield]][github-contributors-link]
-  [![GitHub Forks][github-forks-shield]][github-forks-link]
-  [![GitHub Stars][github-stars-shield]][github-stars-link]
-  [![GitHub Issues][github-issues-shield]][github-issues-link]
-  [![GitHub License][github-license-shield]][github-license-link]
-</p>
 
-<!-- 定义徽章 -->
 [github-contributors-shield]: https://img.shields.io/github/contributors/CoderSJX/AI-Resources-Central?style=flat-square
 [github-contributors-link]: https://github.com/CoderSJX/AI-Resources-Central/graphs/contributors
 [github-forks-shield]: https://img.shields.io/github/forks/CoderSJX/AI-Resources-Central?style=flat-square
