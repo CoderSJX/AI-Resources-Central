@@ -14,7 +14,153 @@
 ## 项目目录
 
 以下是我们按照不同领域分类的部分精选AI项目列表：
-### 智能体开发
+
+### 机器人、客户端应用
+
+1. [lencx/ChatGPT](https://github.com/lencx/ChatGPT)：ChatGPT的桌面应用（适用于Mac、Windows以及Linux系统）。
+
+2. [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)：OpenAssistant是一款聊天助手，能够理解任务并进行交互。
+
+3. [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)：利用大型模型搭建聊天机器人，可接入多个平台，具备多种功能。
+
+4. [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)：使用Express和Vue3搭建的ChatGPT演示网页。
+
+5. [janhq/jan](https://github.com/janhq/jan)：Jan是ChatGPT的开源离线替代方案。
+
+6. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)：对用户友好的人工智能模型桌面客户端。
+
+7. [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)：生成式智能体：模拟人类行为。
+
+8. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)：Unity ML - Agents是一个利用游戏来训练智能体的开源项目。
+
+9. [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：适用于任何大型语言模型（LLM）的人工智能智能体标准库以及TypeScript软件开发工具包（SDK）。
+
+10. [leon-ai/leon](https://github.com/leon-ai/leon)：Leon是一款开源的个人助理。
+
+11. [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)：一款能够提升ChatGPT能力和效率的免费插件。
+
+12. [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)：可以一键部署的人工智能聊天机器人，支持多个平台。
+
+13. [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)：在本地运行LLaMA的最简方式。
+
+14. [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)：可自行托管的类似ChatGPT的聊天机器人，具备隐私性且可离线使用。
+
+15. [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)：在本地运行经过指令微调的聊天风格大型语言模型（LLM）。
+
+16. [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手，具备给女友发消息、自动回复以及群助手等功能。
+
+17. [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)：ChatRWKV类似于ChatGPT，基于RWKV开源项目构建。
+
+18. [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT)：适用于多个平台的ChatGPT的出色用户界面（UI）。
+
+19. [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo)：极简的ChatGPT网页用户界面。
+
+20. [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)：遵循MIT许可的人工智能小镇自定义起始套件。
+
+21. [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)：关于OpenAI、LINE、Vercel与GPT AI Assistant之间的关系。
+
+22. [miurla/morphic](https://github.com/miurla/morphic)：由人工智能驱动的生成式用户界面（UI）搜索引擎。
+
+23. [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced)：WebChatGPT，一款可利用网页结果增强ChatGPT提示的浏览器扩展。
+
+24. [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai)：《街头霸王II冠军版》的人工智能智能体。
+
+25. [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：适用于Mac的ChatGPT，可在菜单栏运行。
+
+26. [camel-ai/camel](https://github.com/camel-ai/camel)：CAMEL：首个多智能体框架。网址：https://www.camel - ai.org。
+
+27. [MineDojo/Voyager](https://github.com/MineDojo/Voyager)：结合大型语言模型的开放式具身智能体。
+
+28. [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app)：具备记忆功能的人工智能伙伴：可创建并托管你自己的伙伴。
+
+29. [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI)：飞书结合多种功能，带来飞一般的工作体验。
+
+30. [simonw/llm](https://github.com/simonw/llm)：通过命令行访问大型语言模型。
+
+31. [sigoden/aichat](https://github.com/sigoden/aichat)：具备多种访问方式的一体化大型语言模型（LLM）命令行界面（CLI）工具。
+
+32. [lencx/nofwl](https://github.com/lencx/nofwl)：NoFWL桌面应用。
+
+33. [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
+
+34. [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone)：具有更好用户界面（UI）的ChatGPT界面。
+
+35. [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot)：将大型语言模型（LLM）作为聊天机器人服务。
+
+36. [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT)：基于React和Electron的本地FreedomGPT应用代码库。
+
+37. [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui)：SoraWebui：开源的Sora网页客户端，可用于制作视频。
+
+38. [karthink/gptel](https://github.com/karthink/gptel)：适用于Emacs的简易大型语言模型（LLM）客户端。
+
+39. [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot)：LLaMA v2聊天机器人。
+
+40. [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)：在你的计算机上运行Alpaca的最简方式。
+
+41. [opendilab/DI-star](https://github.com/opendilab/DI-star)：一个针对《星际争霸II》的人工智能平台，具备训练功能以及智能体。
+
+42. [jncraton/languagemodels](https://github.com/jncraton/languagemodels)：在512MB内存中探索大型语言模型。
+
+43. [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT)：CAMEL：针对大型语言模型（LLMs）和自动智能体的角色扮演。
+
+44. [Syan-Lin/CyberWaifu](https://github.com/Syan-Lin/CyberWaifu)：结合大型语言模型（LLM）与语音合成（TTS）的聊天机器人，支持多种功能的QQ机器人。
+
+### 提示词Prompt工程
+
+1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)：ChatGPT 提示整理，有助于更好地使用 LLM 工具。
+2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：ChatGPT 中文调教指南，适用于各种场景。
+3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)：提示工程的指南、论文、讲座等资源。
+4. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)：DSPy：语言模型的编程框架而非提示。
+5. [guidance-ai/guidance](https://github.com/guidance-ai/guidance)：用于控制 LLM 的引导语言。
+6. [outlines-dev/outlines](https://github.com/outlines-dev/outlines)：结构化文本生成（精简后）：生成结构化文本。
+7. [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
+8. [jxnl/instructor](https://github.com/jxnl/instructor)：结构化的 LLM 输出。
+9. [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)：使用类似 GPT - 4 模型的技巧。
+10. [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)：GPT 系统提示与提示注入/泄露知识集。
+11. [microsoft/TypeChat](https://github.com/microsoft/TypeChat)：TypeChat 是用类型构建自然语言接口的库。
+12. [sgl-project/sglang](https://github.com/sgl-project/sglang)：SGLang 是大语言模型和视觉语言模型的快速服务框架。
+13. [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)：ICLR 2024：高效流语言模型的注意力汇聚。
+14. [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)：增强的 ChatGPT 自定义指令（非编码相关）。
+15. [civitai/civitai](https://github.com/civitai/civitai)：模型、文本反转等的资源库。
+16. [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)：AIGC 提示词可视化编辑器 | OPS | Open Prompt Studio。
+17. [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)：AI 快捷指令提升效率，提示词分享社区助力。
+18. [microsoft/promptbase](https://github.com/microsoft/promptbase)：提示工程的所有内容。
+19. [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)：构建充满乐趣的 AI 接口。
+20. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)：测试 LLM 的提示、智能体、RAG 并比较性能。
+21. [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)：NeurIPS 2023：思维树解决问题。
+22. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)：在智能体框架中使用 Pydantic 与 LLM 的垫片。
+23. [1rgs/jsonformer](https://github.com/1rgs/jsonformer)：从语言模型生成 JSON 的可靠方法。
+24. [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)：开源提示学习框架。
+25. [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)：为大型语言模型添加防护。
+26. [eth-sri/lmql](https://github.com/eth-sri/lmql)：用于高效 LLM 编程的语言。
+27. [promptslab/Promptify](https://github.com/promptslab/Promptify)：提示工程，使用 GPT 生成结构化输出。
+28. [hegelai/prompttools](https://github.com/hegelai/prompttools)：用于 LLM 和向量的开源提示测试工具。
+29. [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)：自然语言提示操作工具包。
+30. [YiVal/YiVal](https://github.com/YiVal/YiVal)：GenAI 应用的自动提示工程助手。
+31. [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine)：帮助开发者编写 LLM 提示的库。
+32. [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge)：用于提示战斗测试的开源可视化编程。
+33. [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)：“思维图”的官方实现。
+34. [ysymyth/ReAct](https://github.com/ysymyth/ReAct)：[ICLR 2023] ReAct：在语言模型中推理和行动。
+35. [Microsoft/genaiscript](https://github.com/Microsoft/genaiscript)：GenAI 脚本自动化（精简后）。
+36. [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic)：将 LLM 无缝集成作为 Python 函数。
+37. [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)：[ACL 2024] 易于使用的 LLM 知识编辑框架。
+38. [microsoft/aici](https://github.com/microsoft/aici)：AICI：将提示作为 Wasm 程序。
+39. [zou-group/textgrad](https://github.com/zou-group/textgrad)：TextGrad：通过文本的自动微分。
+40. [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)：将 LLM 应用于机器人的社区及含 ChatGPT 的模拟器。
+41. [greshake/llm-security](https://github.com/greshake/llm-security)：破坏应用集成 LLM 的新方法。
+42. [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)：强制语言模型输出格式。
+43. [Ber666/llm-reasoners](https://github.com/Ber666/llm-reasoners)：用于大型语言模型高级推理的库。
+44. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)：泄露的系统提示集合。
+45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)：大型语言模型交互的安全工具包
+46. [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit)：可在10秒内编辑大型语言模型
+47. [timqian/openprompt.co](https://github.com/timqian/openprompt.co)：创建、使用、分享ChatGPT提示词
+48. [explosion/spacy-llm](https://github.com/explosion/spacy-llm)：将大型语言模型整合到自然语言处理流程中
+49. [protectai/rebuff](https://github.com/protectai/rebuff)：大型语言模型提示注入检测器（精简版）
+50. [getmetal/motorhead](https://github.com/getmetal/motorhead)：Motorhead是大型语言模型的记忆与信息检索服务器。
+51. [Mirascope/mirascope](https://github.com/Mirascope/mirascope)：大型语言模型的抽象概念并非阻碍。
+
+### 智能体Agent开发
+
 1. [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)：AutoGPT：专注使用的便捷 AI 工具。
 2. [geekan/MetaGPT](https://github.com/geekan/MetaGPT)：多智能体框架：首个 AI 公司，专注自然语言处理。
 3. [microsoft/autogen](https://github.com/microsoft/autogen)：智能体 AI 编程框架，包含 PyPi、Discord 等相关链接。
@@ -73,58 +219,7 @@
 56. [AI-Engineer-Foundation/agent-protocol](https://github.com/AI-Engineer-Foundation/agent-protocol)：与 AI 智能体交互的通用接口。
 57. [kreneskyp/ix](https://github.com/kreneskyp/ix)：自主 GPT - 4 智能体平台。
 
-### 提示工程
-1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)：ChatGPT 提示整理，有助于更好地使用 LLM 工具。
-2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)：ChatGPT 中文调教指南，适用于各种场景。
-3. [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)：提示工程的指南、论文、讲座等资源。
-4. [stanfordnlp/dspy](https://github.com/stanfordnlp/dspy)：DSPy：语言模型的编程框架而非提示。
-5. [guidance-ai/guidance](https://github.com/guidance-ai/guidance)：用于控制 LLM 的引导语言。
-6. [outlines-dev/outlines](https://github.com/outlines-dev/outlines)：结构化文本生成（精简后）：生成结构化文本。
-7. [mshumer/gpt-prompt-engineer](https://github.com/mshumer/gpt-prompt-engineer)
-8. [jxnl/instructor](https://github.com/jxnl/instructor)：结构化的 LLM 输出。
-9. [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering)：使用类似 GPT - 4 模型的技巧。
-10. [LouisShark/chatgpt_system_prompt](https://github.com/LouisShark/chatgpt_system_prompt)：GPT 系统提示与提示注入/泄露知识集。
-11. [microsoft/TypeChat](https://github.com/microsoft/TypeChat)：TypeChat 是用类型构建自然语言接口的库。
-12. [sgl-project/sglang](https://github.com/sgl-project/sglang)：SGLang 是大语言模型和视觉语言模型的快速服务框架。
-13. [mit-han-lab/streaming-llm](https://github.com/mit-han-lab/streaming-llm)：ICLR 2024：高效流语言模型的注意力汇聚。
-14. [spdustin/ChatGPT-AutoExpert](https://github.com/spdustin/ChatGPT-AutoExpert)：增强的 ChatGPT 自定义指令（非编码相关）。
-15. [civitai/civitai](https://github.com/civitai/civitai)：模型、文本反转等的资源库。
-16. [Moonvy/OpenPromptStudio](https://github.com/Moonvy/OpenPromptStudio)：AIGC 提示词可视化编辑器 | OPS | Open Prompt Studio。
-17. [rockbenben/ChatGPT-Shortcut](https://github.com/rockbenben/ChatGPT-Shortcut)：AI 快捷指令提升效率，提示词分享社区助力。
-18. [microsoft/promptbase](https://github.com/microsoft/promptbase)：提示工程的所有内容。
-19. [PrefectHQ/marvin](https://github.com/PrefectHQ/marvin)：构建充满乐趣的 AI 接口。
-20. [promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)：测试 LLM 的提示、智能体、RAG 并比较性能。
-21. [princeton-nlp/tree-of-thought-llm](https://github.com/princeton-nlp/tree-of-thought-llm)：NeurIPS 2023：思维树解决问题。
-22. [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)：在智能体框架中使用 Pydantic 与 LLM 的垫片。
-23. [1rgs/jsonformer](https://github.com/1rgs/jsonformer)：从语言模型生成 JSON 的可靠方法。
-24. [thunlp/OpenPrompt](https://github.com/thunlp/OpenPrompt)：开源提示学习框架。
-25. [guardrails-ai/guardrails](https://github.com/guardrails-ai/guardrails)：为大型语言模型添加防护。
-26. [eth-sri/lmql](https://github.com/eth-sri/lmql)：用于高效 LLM 编程的语言。
-27. [promptslab/Promptify](https://github.com/promptslab/Promptify)：提示工程，使用 GPT 生成结构化输出。
-28. [hegelai/prompttools](https://github.com/hegelai/prompttools)：用于 LLM 和向量的开源提示测试工具。
-29. [bigscience-workshop/promptsource](https://github.com/bigscience-workshop/promptsource)：自然语言提示操作工具包。
-30. [YiVal/YiVal](https://github.com/YiVal/YiVal)：GenAI 应用的自动提示工程助手。
-31. [microsoft/prompt-engine](https://github.com/microsoft/prompt-engine)：帮助开发者编写 LLM 提示的库。
-32. [ianarawjo/ChainForge](https://github.com/ianarawjo/ChainForge)：用于提示战斗测试的开源可视化编程。
-33. [spcl/graph-of-thoughts](https://github.com/spcl/graph-of-thoughts)：“思维图”的官方实现。
-34. [ysymyth/ReAct](https://github.com/ysymyth/ReAct)：[ICLR 2023] ReAct：在语言模型中推理和行动。
-35. [Microsoft/genaiscript](https://github.com/Microsoft/genaiscript)：GenAI 脚本自动化（精简后）。
-36. [jackmpcollins/magentic](https://github.com/jackmpcollins/magentic)：将 LLM 无缝集成作为 Python 函数。
-37. [zjunlp/EasyEdit](https://github.com/zjunlp/EasyEdit)：[ACL 2024] 易于使用的 LLM 知识编辑框架。
-38. [microsoft/aici](https://github.com/microsoft/aici)：AICI：将提示作为 Wasm 程序。
-39. [zou-group/textgrad](https://github.com/zou-group/textgrad)：TextGrad：通过文本的自动微分。
-40. [microsoft/PromptCraft-Robotics](https://github.com/microsoft/PromptCraft-Robotics)：将 LLM 应用于机器人的社区及含 ChatGPT 的模拟器。
-41. [greshake/llm-security](https://github.com/greshake/llm-security)：破坏应用集成 LLM 的新方法。
-42. [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)：强制语言模型输出格式。
-43. [Ber666/llm-reasoners](https://github.com/Ber666/llm-reasoners)：用于大型语言模型高级推理的库。
-44. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)：泄露的系统提示集合。
-45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)：大型语言模型交互的安全工具包
-46. [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit)：可在10秒内编辑大型语言模型
-47. [timqian/openprompt.co](https://github.com/timqian/openprompt.co)：创建、使用、分享ChatGPT提示词
-48. [explosion/spacy-llm](https://github.com/explosion/spacy-llm)：将大型语言模型整合到自然语言处理流程中
-49. [protectai/rebuff](https://github.com/protectai/rebuff)：大型语言模型提示注入检测器（精简版）
-50. [getmetal/motorhead](https://github.com/getmetal/motorhead)：Motorhead是大型语言模型的记忆与信息检索服务器。
-51. [Mirascope/mirascope](https://github.com/Mirascope/mirascope)：大型语言模型的抽象概念并非阻碍。
+51.
 
 ### 人工智能接口
 
@@ -169,7 +264,10 @@
 39. [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)：利用GGML库在iOS和MacOS上离线使用Llama等大型语言模型。
 40. [uezo/ChatdollKit](https://github.com/uezo/ChatdollKit)：ChatdollKit可将3D模型制作为聊天机器人。
 
-### 人工智能工程框架
+
+
+### AI工程框架
+
 1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain)：🦜🔗构建情境感知推理应用程序
 2. [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)：GPT4All：运行本地大型语言模型（LLMs），开源，可用于商业用途。
 3. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)：最强大的扩散模型图形用户界面、应用程序编程接口（API）以及后端。
@@ -544,95 +642,6 @@
 
 7. [Dicklesworthstone/swiss_army_llama](https://github.com/Dicklesworthstone/swiss_army_llama)：FastAPI服务用于语义文本搜索，支持多种文件类型。
 
-### 机器人、桌面应用
-
-1. [lencx/ChatGPT](https://github.com/lencx/ChatGPT)：ChatGPT桌面应用（Mac、Windows和Linux）
-
-2. [LAION-AI/Open-Assistant](https://github.com/LAION-AI/Open-Assistant)：OpenAssistant是聊天助手，能理解任务并交互。
-
-3. [zhayujie/chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)：大模型搭建聊天机器人，多平台接入多功能。
-
-4. [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web)：用Express和Vue3搭建ChatGPT演示网页
-
-5. [janhq/jan](https://github.com/janhq/jan)：Jan是ChatGPT的开源离线替代方案。
-
-6. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)：User - friendly Desktop Client for AI Models.
-
-7. [joonspk-research/generative_agents](https://github.com/joonspk-research/generative_agents)：Generative Agents: Simulating Human Behavior
-
-8. [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)：Unity ML - Agents是用游戏训练智能体的开源项目。
-
-9. [transitive-bullshit/chatgpt-api](https://github.com/transitive-bullshit/chatgpt-api)：AI agent stdlib for any LLM and TypeScript SDK.
-
-10. [leon-ai/leon](https://github.com/leon-ai/leon)：Leon是你的开源个人助理。
-
-11. [xcanwin/KeepChatGPT](https://github.com/xcanwin/KeepChatGPT)：一款提高ChatGPT能力和效率的免费插件。
-
-12. [lss233/chatgpt-mirai-qq-bot](https://github.com/lss233/chatgpt-mirai-qq-bot)：一键部署AI聊天机器人，多平台支持
-
-13. [cocktailpeanut/dalai](https://github.com/cocktailpeanut/dalai)：The simplest way to run LLaMA locally.
-
-14. [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt)：Self - hosted ChatGPT - like chatbot, private & offline.
-
-15. [antimatter15/alpaca.cpp](https://github.com/antimatter15/alpaca.cpp)：Run Instruction - Tuned Chat - Style LLM locally.
-
-16. [sfyc23/EverydayWechat](https://github.com/sfyc23/EverydayWechat)：微信助手：给女友发消息、自动回复、群助手功能
-
-17. [BlinkDL/ChatRWKV](https://github.com/BlinkDL/ChatRWKV)：ChatRWKV像ChatGPT，基于RWKV开源。
-
-18. [ztjhz/BetterChatGPT](https://github.com/ztjhz/BetterChatGPT)：Amazing UI for ChatGPT on multiple platforms
-
-19. [anse-app/chatgpt-demo](https://github.com/anse-app/chatgpt-demo)：Minimal ChatGPT web UI.
-
-20. [a16z-infra/ai-town](https://github.com/a16z-infra/ai-town)：MIT许可的AI小镇自定义起始套件。
-
-21. [memochou1993/gpt-ai-assistant](https://github.com/memochou1993/gpt-ai-assistant)：OpenAI、LINE、Vercel与GPT AI Assistant的关系
-
-22. [miurla/morphic](https://github.com/miurla/morphic)：AI驱动的生成式UI搜索引擎。
-
-23. [interstellard/chatgpt-advanced](https://github.com/interstellard/chatgpt-advanced)：WebChatGPT：用网页结果增强ChatGPT提示的浏览器扩展。
-
-24. [linyiLYi/street-fighter-ai](https://github.com/linyiLYi/street-fighter-ai)：AI agent for Street Fighter II Champion Edition.
-
-25. [vincelwt/chatgpt-mac](https://github.com/vincelwt/chatgpt-mac)：ChatGPT for Mac，在菜单栏运行。
-
-26. [camel-ai/camel](https://github.com/camel-ai/camel)：CAMEL: First multi - agent framework. https://www.camel - ai.org
-
-27. [MineDojo/Voyager](https://github.com/MineDojo/Voyager)：Open - Ended Embodied Agent with Large Language Models
-
-28. [a16z-infra/companion-app](https://github.com/a16z-infra/companion-app)：AI companions with memory: create and host your own.
-
-29. [ConnectAI-E/Feishu-OpenAI](https://github.com/ConnectAI-E/Feishu-OpenAI)：飞书结合多种功能带来飞一般工作体验
-
-30. [simonw/llm](https://github.com/simonw/llm)：Access large language models via command-line
-
-31. [sigoden/aichat](https://github.com/sigoden/aichat)：All - in - one LLM CLI tool with multi - access.
-
-32. [lencx/nofwl](https://github.com/lencx/nofwl)：NoFWL桌面应用
-
-33. [Kent0n-Li/ChatDoctor](https://github.com/Kent0n-Li/ChatDoctor)
-
-34. [xtekky/chatgpt-clone](https://github.com/xtekky/chatgpt-clone)：ChatGPT界面，有更好的UI。
-
-35. [deep-diver/LLM-As-Chatbot](https://github.com/deep-diver/LLM-As-Chatbot)：LLM作为聊天机器人服务
-
-36. [ohmplatform/FreedomGPT](https://github.com/ohmplatform/FreedomGPT)：React和Electron的本地FreedomGPT应用代码库
-
-37. [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui)：SoraWebui：开源Sora网页客户端，可制视频。
-
-38. [karthink/gptel](https://github.com/karthink/gptel)：Emacs的简易LLM客户端。
-
-39. [a16z-infra/llama2-chatbot](https://github.com/a16z-infra/llama2-chatbot)：LLaMA v2 Chatbot
-
-40. [ItsPi3141/alpaca-electron](https://github.com/ItsPi3141/alpaca-electron)：The simplest way to run Alpaca on your computer.
-
-41. [opendilab/DI-star](https://github.com/opendilab/DI-star)：An AI platform for StarCraft II with training and agents.
-
-42. [jncraton/languagemodels](https://github.com/jncraton/languagemodels)：Explore large language models in 512MB RAM.
-
-43. [SamurAIGPT/Camel-AutoGPT](https://github.com/SamurAIGPT/Camel-AutoGPT)：CAMEL: role - playing for LLMs and auto - agents.
-
-44. [Syan-Lin/CyberWaifu](https://github.com/Syan-Lin/CyberWaifu)：LLM+TTS聊天机器人，支持多种功能的QQ机器人
 
 ### 模型库
 
