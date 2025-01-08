@@ -6,17 +6,18 @@
 
   <p align="center">
     汇集全球优秀的人工智能开源项目！
-    <br />
-    <br />
-    <a href="https://github.com/CoderSJX/AI-Resources-Central">浏览仓库</a>
-    ·
-    <a href="https://github.com/CoderSJX/AI-Resources-Central/issues">报告Bug</a>
-    ·
-    <a href="https://github.com/CoderSJX/AI-Resources-Central/pulls">提出特性请求</a>
+
+[![GitHub Contributors][github-contributors-shield]][github-contributors-link]
+[![GitHub Forks][github-forks-shield]][github-forks-link]
+[![GitHub Stars][github-stars-shield]][github-stars-link]
+[![GitHub Issues][github-issues-shield]][github-issues-link]
+[![GitHub License][github-license-shield]][github-license-link]
+
   </p>
 </p>
 
 <!-- 目录 -->
+
 <details open="open">
   <summary>目录</summary>
   <ol>
@@ -24,11 +25,13 @@
     <li><a href="#目标">目标</a></li>
     <li><a href="#项目目录">项目目录</a></li>
     <li><a href="#如何贡献">如何贡献</a></li>
-    <li><a href="#致谢">致谢</a></li>
     <li><a href="#许可证">许可证</a></li>
   </ol>
 </details>
 
+<!-- GitHub 统计数据和徽章 -->
+
+<!-- 定义徽章 -->
 
 [github-contributors-shield]: https://img.shields.io/github/contributors/CoderSJX/AI-Resources-Central?style=flat-square
 [github-contributors-link]: https://github.com/CoderSJX/AI-Resources-Central/graphs/contributors
@@ -1632,9 +1635,6 @@
 
 请阅读我们的[贡献指南](CONTRIBUTING.md)了解更多细节。
 
-## 致谢
-
-感谢所有为本仓库做出贡献的开发者们！您的努力使这个社区变得更加丰富和有价值。
 
 ## 许可证
 
