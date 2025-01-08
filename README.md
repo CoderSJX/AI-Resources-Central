@@ -20,12 +20,12 @@
 <details open="open">
   <summary>目录</summary>
   <ol>
-    <li><a href="##介绍">介绍</a></li>
-    <li><a href="##目标">目标</a></li>
-    <li><a href="##项目目录">项目目录</a></li>
-    <li><a href="##如何贡献">如何贡献</a></li>
-    <li><a href="##致谢">致谢</a></li>
-    <li><a href="##许可证">许可证</a></li>
+    <li><a href="#介绍">介绍</a></li>
+    <li><a href="#目标">目标</a></li>
+    <li><a href="#项目目录">项目目录</a></li>
+    <li><a href="#如何贡献">如何贡献</a></li>
+    <li><a href="#致谢">致谢</a></li>
+    <li><a href="#许可证">许可证</a></li>
   </ol>
 </details>
 
