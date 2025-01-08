@@ -1,16 +1,7 @@
 <div align="center"><a name="readme-top"></a>
 
 <h1>AI Resource Central</h1>
-<!-- SHIELD GROUP -->
-[![website][website-shield]][website-url]
-[![][npm-release-shield]][npm-release-link]
 
-<br/>
-[![][github-contributors-shield]][github-contributors-link]
-[![][github-forks-shield]][github-forks-link]
-[![][github-stars-shield]][github-stars-link]
-[![][github-issues-shield]][github-issues-link]
-[![][github-license-shield]][github-license-link]
 
 </div>
 欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
