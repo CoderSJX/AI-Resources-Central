@@ -1593,11 +1593,7 @@
 
 7. [NeumTry/NeumAI](https://github.com/NeumTry/NeumAI)：Neum AI：大规模管理向量嵌入的框架。
 
-<!-- MARKDOWN LINKS & SHIELDS -->
-[website-shield]: https://img.shields.io/website-up-down-green-red/https/yourwebsite.com.svg?label=Website&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAVklEQVR4Xn3PgQkAMQhDUXfqTu7kTtkpd5RA8AInfApMahkJeeLsXIiAqAIENtDIEMfBAxJgGyegMErPz/8ZwAEUjWBF1MiDdpgAAAABJRU5ErkJggg== (Website status)
-[website-url]: https://yourwebsite.com (Your website URL)
-[npm-release-shield]: https://img.shields.io/npm/v/package_name.svg (NPM version)
-[npm-release-link]: https://www.npmjs.com/package/package_name (NPM package page)
+<!-- LINK GROUP -->
 [github-releasedate-shield]: https://img.shields.io/github/release-date/CoderSJX/AI-Resources-Central.svg (GitHub release date)
 [github-releasedate-link]: https://github.com/CoderSJX/AI-Resources-Central/releases/latest (Latest GitHub release)
 [github-action-test-shield]: https://github.com/CoderSJX/AI-Resources-Central/workflows/Test/badge.svg (GitHub Actions test status)
