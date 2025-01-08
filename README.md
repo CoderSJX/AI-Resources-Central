@@ -118,654 +118,336 @@
 42. [noamgat/lm-format-enforcer](https://github.com/noamgat/lm-format-enforcer)：强制语言模型输出格式。
 43. [Ber666/llm-reasoners](https://github.com/Ber666/llm-reasoners)：用于大型语言模型高级推理的库。
 44. [jujumilk3/leaked-system-prompts](https://github.com/jujumilk3/leaked-system-prompts)：泄露的系统提示集合。
-45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)
-
-45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)：Security Toolkit for LLM Interactions
-
-46. [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit)：Editing large language models within 10 seconds
-
-47. [timqian/openprompt.co](https://github.com/timqian/openprompt.co)：Create, use, share ChatGPT prompts
-
-48. [explosion/spacy-llm](https://github.com/explosion/spacy-llm)：Integrating LLMs into NLP pipelines
-
-49. [protectai/rebuff](https://github.com/protectai/rebuff)：LLM Prompt Injection Detector 精简版
-
-50. [getmetal/motorhead](https://github.com/getmetal/motorhead)：Motorhead是LLMs的记忆与信息检索服务器。
-
-51. [Mirascope/mirascope](https://github.com/Mirascope/mirascope)：LLM抽象概念并非阻碍。
+45. [laiyer-ai/llm-guard](https://github.com/laiyer-ai/llm-guard)：大型语言模型交互的安全工具包
+46. [hiyouga/FastEdit](https://github.com/hiyouga/FastEdit)：可在10秒内编辑大型语言模型
+47. [timqian/openprompt.co](https://github.com/timqian/openprompt.co)：创建、使用、分享ChatGPT提示词
+48. [explosion/spacy-llm](https://github.com/explosion/spacy-llm)：将大型语言模型整合到自然语言处理流程中
+49. [protectai/rebuff](https://github.com/protectai/rebuff)：大型语言模型提示注入检测器（精简版）
+50. [getmetal/motorhead](https://github.com/getmetal/motorhead)：Motorhead是大型语言模型的记忆与信息检索服务器。
+51. [Mirascope/mirascope](https://github.com/Mirascope/mirascope)：大型语言模型的抽象概念并非阻碍。
 
 ### 人工智能接口
 
-1. [jmorganca/ollama](https://github.com/jmorganca/ollama)：Get started with Llama 3.3, Mistral, Gemma 2, etc.
-
-2. [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)：跨平台ChatGPT等应用，一键拥有。
-
-3. [xtekky/gpt4free](https://github.com/xtekky/gpt4free)：gpt4free repo: collection of powerful language models
-
-4. [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)：Gradio web UI for LLMs with multiple backends.
-
-5. [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)：1 min voice data can be used to train a TTS model.
-
-6. [gradio-app/gradio](https://github.com/gradio-app/gradio)：Build and share Python ML apps. 🌟 Star!
-
-7. [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)：AI chat applicable to all models.
-
-8. [openai/openai-python](https://github.com/openai/openai-python)：Python的OpenAI API官方库。
-
-9. [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)：Enhanced ChatGPT Clone with multiple features.
-
-10. [sunner/ChatALL](https://github.com/sunner/ChatALL)：同时与多模型聊天，探寻最佳答案
-
-11. [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)：GUI for ChatGPT API, LLMs with various functions.
-
-12. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)：React UI + infrastructure for AI -related projects
-
-13. [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)：High-performance in - browser LLM inference.
-
-14. [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)：Scalable embedding, reasoning, ranking for images/sentences with CLIP
-
-15. [chathub-dev/chathub](https://github.com/chathub-dev/chathub)：All-in-one chatbot client
-
-16. [TheRamU/Fay](https://github.com/TheRamU/Fay)：Fay是开源数字人框架，有多种应用版本。
-
-17. [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)：Go的OpenAI相关API wrapper
-
-18. [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)：LLM前端，面向高级用户。
-
-19. [openai/openai-node](https://github.com/openai/openai-node)：JavaScript/TypeScript库用于OpenAI API。
-
-20. [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation)：Bring Characters to Life in Unity with Computer Brains
-
-21. [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)：提供免费OpenAI GPT - 4 API，typescript版本复制项目
-
-22. [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)：wukong - robot是支持多轮对话的智能音箱项目。
-
-23. [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)：Play ChatGPT and LLM with Xiaomi AI Speaker
-
-24. [nat/openplayground](https://github.com/nat/openplayground)：LLM playground runnable on laptop.
-
-25. [postgresml/postgresml](https://github.com/postgresml/postgresml)：Postgres with GPUs for ML/AI apps.
-
-26. [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)：Create AI character, have seamless conversation.
-
-27. [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui)：Lord of LLM Web User Interface
-
-28. [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)：Chatbot builder for integrating AI models into apps.
-
-29. [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)：代理Discord对话，以API请求GPT4模型及功能
-
-30. [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python)：Build open-source modular voice LLM agents.
-
-31. [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai)：OpenAI API与Ruby结合。
-
-32. [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui)：UI for AI. Tailwind components for AI projects.
-
-33. [ollama/ollama-js](https://github.com/ollama/ollama-js)：Ollama的JavaScript库
-
-34. [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)：开源大模型的统一后端接口，支持多种模型。
-
-35. [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)：Open - source ChatGPT app with voice.
-
-36. [anse-app/anse](https://github.com/anse-app/anse)：Supercharged experience for ChatGPT, DALL - E, Stable Diffusion.
-
-37. [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server)：AIdEA是支持多模型的全能型APP。
-
-38. [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin)：Kotlin版OpenAI API客户端，多平台协程。
-
-39. [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)：Llama等大语言模型在iOS和MacOS离线使用GGML库
-
-40. [uezo/ChatdollKit](https://github.com/uezo/ChatdollKit)：ChatdollKit可将3D模型制为聊天机器人
+1. [jmorganca/ollama](https://github.com/jmorganca/ollama)：开始使用Llama 3.3、Mistral、Gemma 2等等。
+2. [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web)：跨平台的ChatGPT等应用，一键即可拥有。
+3. [xtekky/gpt4free](https://github.com/xtekky/gpt4free)：gpt4free资源库：强大语言模型的集合。
+4. [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui)：带有多个后端的大型语言模型（LLMs）的Gradio网络用户界面。
+5. [RVC-Boss/GPT-SoVITS](https://github.com/RVC-Boss/GPT-SoVITS)：1分钟的语音数据可用于训练一个语音合成（TTS）模型。
+6. [gradio-app/gradio](https://github.com/gradio-app/gradio)：构建并分享Python机器学习应用。🌟 点个赞（加星）吧！
+7. [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui)：适用于所有模型的人工智能聊天（界面/应用）。
+8. [openai/openai-python](https://github.com/openai/openai-python)：Python语言的OpenAI API官方库。
+9. [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)：具备多种功能的增强版ChatGPT克隆应用。
+10. [sunner/ChatALL](https://github.com/sunner/ChatALL)：同时与多个模型聊天，探寻最佳答案。
+11. [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT)：ChatGPT API的图形用户界面（GUI），具有多种功能的大型语言模型（LLMs）。
+12. [CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)：用于人工智能相关项目的React用户界面及基础设施。
+13. [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm)：浏览器内高性能的大型语言模型（LLM）推理。
+14. [jina-ai/clip-as-service](https://github.com/jina-ai/clip-as-service)：利用CLIP对图像/语句进行可扩展的嵌入、推理、排序。
+15. [chathub-dev/chathub](https://github.com/chathub-dev/chathub)：一体化的聊天机器人客户端。
+16. [TheRamU/Fay](https://github.com/TheRamU/Fay)：Fay是开源的数字人框架，有多种应用版本。
+17. [sashabaranov/go-openai](https://github.com/sashabaranov/go-openai)：Go语言的OpenAI相关API的封装器。
+18. [SillyTavern/SillyTavern](https://github.com/SillyTavern/SillyTavern)：大型语言模型（LLM）的前端，面向高级用户。
+19. [openai/openai-node](https://github.com/openai/openai-node)：用于OpenAI API的JavaScript/TypeScript库。
+20. [sebastianstarke/AI4Animation](https://github.com/sebastianstarke/AI4Animation)：在Unity中利用计算机智能让角色栩栩如生。
+21. [xiangsx/gpt4free-ts](https://github.com/xiangsx/gpt4free-ts)：提供免费的OpenAI GPT-4 API，TypeScript版本的复制项目。
+22. [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot)：悟空机器人是支持多轮对话的智能音箱项目。
+23. [yihong0618/xiaogpt](https://github.com/yihong0618/xiaogpt)：通过小米智能音箱使用ChatGPT和大型语言模型（LLM）。
+24. [nat/openplayground](https://github.com/nat/openplayground)：可在笔记本电脑上运行的大型语言模型（LLM）测试平台。
+25. [postgresml/postgresml](https://github.com/postgresml/postgresml)：用于机器学习/人工智能应用且配备GPU的Postgres（数据库）。
+26. [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar)：创建人工智能角色，进行无缝对话。
+27. [ParisNeo/lollms-webui](https://github.com/ParisNeo/lollms-webui)：大型语言模型（LLM）网络用户界面之王。
+28. [zhayujie/bot-on-anything](https://github.com/zhayujie/bot-on-anything)：用于将人工智能模型集成到应用中的聊天机器人构建器。
+29. [deanxv/coze-discord-proxy](https://github.com/deanxv/coze-discord-proxy)：代理Discord对话，以便向GPT4模型发起API请求及使用其功能。
+30. [vocodedev/vocode-python](https://github.com/vocodedev/vocode-python)：构建开源的模块化语音大型语言模型（LLM）智能体。
+31. [alexrudall/ruby-openai](https://github.com/alexrudall/ruby-openai)：OpenAI API与Ruby语言相结合。
+32. [ahmadbilaldev/langui](https://github.com/ahmadbilaldev/langui)：人工智能的用户界面。用于人工智能项目的Tailwind组件。
+33. [ollama/ollama-js](https://github.com/ollama/ollama-js)：Ollama的JavaScript库。
+34. [xusenlinzy/api-for-open-llm](https://github.com/xusenlinzy/api-for-open-llm)：开源大型语言模型的统一后端接口，支持多种模型。
+35. [cogentapps/chat-with-gpt](https://github.com/cogentapps/chat-with-gpt)：带有语音功能的开源ChatGPT应用。
+36. [anse-app/anse](https://github.com/anse-app/anse)：为ChatGPT、DALL-E、Stable Diffusion带来超强体验。
+37. [mylxsw/aidea-server](https://github.com/mylxsw/aidea-server)：AIdEA是支持多模型的全能型应用程序。
+38. [aallam/openai-kotlin](https://github.com/aallam/openai-kotlin)：Kotlin版的OpenAI API客户端，支持多平台协程。
+39. [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm)：利用GGML库在iOS和MacOS上离线使用Llama等大型语言模型。
+40. [uezo/ChatdollKit](https://github.com/uezo/ChatdollKit)：ChatdollKit可将3D模型制作为聊天机器人。
 
 ### 人工智能工程框架
-
 1. [langchain-ai/langchain](https://github.com/langchain-ai/langchain)：🦜🔗构建情境感知推理应用程序
-
-2. [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)：GPT4All: Run local LLMs, open - source, commercial use.
-
-3. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)：The most powerful diffusion model GUI, api and backend.
-
-4. [langgenius/dify](https://github.com/langgenius/dify)：Dify是开源LLM应用开发平台，功能多且高效。
-
-5. [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)：Lobe Chat：开源AI聊天框架，多功能一键部署
-
-6. [logspace-ai/langflow](https://github.com/logspace-ai/langflow)：Langflow是低代码构建器，适用于RAG等应用。
-
-7. [run-llama/llama_index](https://github.com/run-llama/llama_index)：LlamaIndex: a data framework for LLM applications
-
-8. [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)：Drag & drop UI构建定制LLM流程
-
-9. [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)：Langchain - Chatchat的RAG与Agent应用
-
-10. [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)：免费开源，可自托管且无需GPU。
-
-11. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)：RAGFlow：基于深度文档理解的开源RAG引擎。
-
-12. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)：Platform for building AI over federated data.
-
-13. [embedchain/embedchain](https://github.com/embedchain/embedchain)：Memory layer for AI apps
-
-14. [songquanpeng/one-api](https://github.com/songquanpeng/one-api)：OpenAI接口管理分发系统，支持多种LLMs
-
-15. [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)：Open - source RAG - based document - chatting tool.
-
-16. [labring/FastGPT](https://github.com/labring/FastGPT)：FastGPT是基于LLMs的知识平台，功能多样。
-
-17. [deepset-ai/haystack](https://github.com/deepset-ai/haystack)：AI编排框架构建可定制LLM应用，适用于多种场景
-
-18. [BerriAI/litellm](https://github.com/BerriAI/litellm)：Python SDK/Proxy Server for 100+ LLM APIs.
-
-19. [flairNLP/flair](https://github.com/flairNLP/flair)：Simple NLP framework for state - of - the - art.
-
+2. [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all)：GPT4All：运行本地大型语言模型（LLMs），开源，可用于商业用途。
+3. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)：最强大的扩散模型图形用户界面、应用程序编程接口（API）以及后端。
+4. [langgenius/dify](https://github.com/langgenius/dify)：Dify是开源的大型语言模型（LLM）应用开发平台，功能丰富且高效。
+5. [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat)：Lobe Chat：开源的人工智能聊天框架，可一键部署多种功能。
+6. [logspace-ai/langflow](https://github.com/logspace-ai/langflow)：Langflow是适用于构建检索增强生成（RAG）等应用的低代码构建器。
+7. [run-llama/llama_index](https://github.com/run-llama/llama_index)：LlamaIndex：一种用于大型语言模型（LLM）应用的数据框架。
+8. [FlowiseAI/Flowise](https://github.com/FlowiseAI/Flowise)：通过拖放式用户界面（UI）构建定制的大型语言模型（LLM）流程。
+9. [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)：Langchain - Chatchat的检索增强生成（RAG）与智能体（Agent）应用。
+10. [go-skynet/LocalAI](https://github.com/go-skynet/LocalAI)：免费、开源，可自行托管且无需图形处理器（GPU）。
+11. [infiniflow/ragflow](https://github.com/infiniflow/ragflow)：RAGFlow：基于深度文档理解的开源检索增强生成（RAG）引擎。
+12. [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)：基于联合数据构建人工智能的平台。
+13. [embedchain/embedchain](https://github.com/embedchain/embedchain)：人工智能应用的记忆层。
+14. [songquanpeng/one-api](https://github.com/songquanpeng/one-api)：OpenAI接口管理与分发系统，支持多种大型语言模型（LLMs）。
+15. [Cinnamon/kotaemon](https://github.com/Cinnamon/kotaemon)：开源的基于检索增强生成（RAG）的文档聊天工具。
+16. [labring/FastGPT](https://github.com/labring/FastGPT)：FastGPT是基于大型语言模型（LLMs）的知识平台，具备多种功能。
+17. [deepset-ai/haystack](https://github.com/deepset-ai/haystack)：通过人工智能编排框架构建可定制的大型语言模型（LLM）应用，适用于多种场景。
+18. [BerriAI/litellm](https://github.com/BerriAI/litellm)：适用于100多个大型语言模型（LLM）应用程序编程接口（API）的Python软件开发工具包（SDK）/代理服务器。
+19. [flairNLP/flair](https://github.com/flairNLP/flair)：用于前沿技术的简单自然语言处理（NLP）框架。
 20. [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs)：🦜🔗构建情境感知推理应用 🦜🔗
-
-21. [xenova/transformers.js](https://github.com/xenova/transformers.js)：Run 🤗 Transformers in browser without a server.
-
-22. [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)：Question and Answer about Anything.
-
-23. [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)：Private chat with local GPT, 100% private, Apache 2.0.
-
-24. [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)：RAG、AI管道和企业搜索的云模板，数据源多
-
-25. [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig)：Low - code framework for building AI models
-
-26. [vercel/ai](https://github.com/vercel/ai)：Build AI apps with React, Svelte, Vue, Solid
-
-27. [microsoft/promptflow](https://github.com/microsoft/promptflow)：Build high - quality LLM apps: prototyping to monitoring.
-
-28. [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)：Open source libraries/APIs for custom ML pipelines.
-
-29. [dataelement/bisheng](https://github.com/dataelement/bisheng)：BISHENG是企业AI应用的开源LLM运维平台。
-
+21. [xenova/transformers.js](https://github.com/xenova/transformers.js)：无需服务器，在浏览器中运行🤗 Transformers。
+22. [netease-youdao/QAnything](https://github.com/netease-youdao/QAnything)：关于任何事物的问答。
+23. [h2oai/h2ogpt](https://github.com/h2oai/h2ogpt)：与本地GPT进行私密聊天，百分百私密，遵循Apache 2.0协议。
+24. [pathwaycom/llm-app](https://github.com/pathwaycom/llm-app)：用于检索增强生成（RAG）、人工智能管道以及企业搜索的云模板，具备多种数据源。
+25. [ludwig-ai/ludwig](https://github.com/ludwig-ai/ludwig)：用于构建人工智能模型的低代码框架。
+26. [vercel/ai](https://github.com/vercel/ai)：使用React、Svelte、Vue、Solid构建人工智能应用。
+27. [microsoft/promptflow](https://github.com/microsoft/promptflow)：构建高质量的大型语言模型（LLM）应用：从原型设计到监控。
+28. [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured)：用于定制机器学习管道的开源库/应用程序编程接口（API）。
+29. [dataelement/bisheng](https://github.com/dataelement/bisheng)：BISHENG是企业人工智能应用的开源大型语言模型（LLM）运维平台。
 30. [togethercomputer/OpenChatKit](https://github.com/togethercomputer/OpenChatKit)
-
-31. [llmware-ai/llmware](https://github.com/llmware-ai/llmware)：Unified framework for enterprise RAG pipelines with small models
-
-32. [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)：Building a quick Lepton AI conversation search demo.
-
-33. [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio)：下一代AI一站式解决方案，多模型支持。
-
-34. [Chainlit/chainlit](https://github.com/Chainlit/chainlit)：Build Conversational AI in minutes.
-
-35. [modelscope/modelscope](https://github.com/modelscope/modelscope)：ModelScope实现模型即服务的理念。
-
-36. [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov)：An open source deep learning dialog library.
-
+31. [llmware-ai/llmware](https://github.com/llmware-ai/llmware)：用于企业检索增强生成（RAG）管道的统一框架，搭配小型模型。
+32. [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton)：构建一个快速的Lepton AI对话搜索演示。
+33. [Deeptrain-Community/chatnio](https://github.com/Deeptrain-Community/chatnio)：下一代人工智能一站式解决方案，支持多种模型。
+34. [Chainlit/chainlit](https://github.com/Chainlit/chainlit)：在几分钟内构建对话式人工智能。
+35. [modelscope/modelscope](https://github.com/modelscope/modelscope)：ModelScope实现了模型即服务的理念。
+36. [deeppavlov/DeepPavlov](https://github.com/deeppavlov/DeepPavlov)：一个开源的深度学习对话库。
 37. [langchain-ai/opengpts](https://github.com/langchain-ai/opengpts)
-
-38. [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)：AI原生应用开发的开源平台。
-
-39. [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda)：闻达：面向特定环境的LLM调用平台。
-
-40. [rustformers/llm](https://github.com/rustformers/llm)：Unmaintained Rust libraries for large language models
-
-41. [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner)：RWKV管理启动工具，8MB且兼容OpenAI API。
-
-42. [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)：Java版的LangChain
-
-43. [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)：ICLR'24 spotlight: Open platform for LLM tool learning.
-
-44. [microsoft/FLAML](https://github.com/microsoft/FLAML)：Fast AutoML & tuning library. Discord: https://discord.gg/Cppx2vSPVP.
-
-45. [microsoft/lmops](https://github.com/microsoft/lmops)：General technology for AI with LLMs and MLLMs
-
-46. [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine)：Power CLI和LLMs工作流管理器（核心包）
-
-47. [timescale/pgai](https://github.com/timescale/pgai)：Tools for easier RAG etc. with PostgreSQL
-
-48. [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)：LLM Zoo为大语言模型提供数据、模型和评估基准。
-
-49. [casibase/casibase](https://github.com/casibase/casibase)：AI Cloud: Open - source RAG, supports multiple models
-
-50. [getzep/zep](https://github.com/getzep/zep)：Zep, The Memory Foundation For Your AI Stack
-
-51. [leptonai/leptonai](https://github.com/leptonai/leptonai)：Python框架简化人工智能服务构建
-
-52. [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo)：Open-source LLMOps platform for streamlining tasks.
-
-53. [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core)：AI agent微服务
-
-54. [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router)：Superfast AI for data decision-making and processing.
-
-55. [instill-ai/vdp](https://github.com/instill-ai/vdp)：Instill Core是用于AI的全栈基础设施工具。
-
-56. [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)：Build chatbot quickly, run LLMs efficiently.
-
-57. [griptape-ai/griptape](https://github.com/griptape-ai/griptape)：Python framework for AI agents with reasoning etc.
-
-58. [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)：Data framework for LLM apps, server - side focused.
-
-59. [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)：Open - source LLMOps platform for multiple uses.
-
-60. [marella/ctransformers](https://github.com/marella/ctransformers)：Python bindings for C/C++ Transformer models with GGML.
-
-61. [devflowinc/trieve](https://github.com/devflowinc/trieve)：All-in-one API for search, recs, RAG, analytics
-
-62. [YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)：ICML 2024: RPG for text - to - image diffusion
-
-63. [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack)：No - code框架构建LLM Agents等
-
-64. [getzep/graphiti](https://github.com/getzep/graphiti)：Build and query dynamic Knowledge Graphs.
-
-65. [KimMeen/Time-LLM](https://github.com/KimMeen/Time-LLM)：[ICLR 2024] Time-LLM time series forecasting impl.
-
-66. [floneum/floneum](https://github.com/floneum/floneum)：Rust中的即时可控本地预训练AI模型
-
-67. [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)：Langchain apps in production with Jina & FastAPI
-
-68. [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler)：[ICML 2024] LLMCompiler for Parallel Function Calling
-
-69. [andreibondarev/langchainrb](https://github.com/andreibondarev/langchainrb)：Build LLM-powered Ruby applications.
-
-70. [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack)：部署VPC内的私人ChatGPT替代方案并连接知识库。
-
-71. [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG)：Efficient Retrieval Augmentation & Generation Framework
-
-72. [DAGWorks-Inc/burr](https://github.com/DAGWorks-Inc/burr)：Build decision - making applications on own infrastructure.
-
-73. [sobelio/llm-chain](https://github.com/sobelio/llm-chain)：`llm - chain` for building LLM chains, tasks.
-
+38. [TaskingAI/TaskingAI](https://github.com/TaskingAI/TaskingAI)：人工智能原生应用开发的开源平台。
+39. [wenda-LLM/wenda](https://github.com/wenda-LLM/wenda)：闻达：面向特定环境的大型语言模型（LLM）调用平台。
+40. [rustformers/llm](https://github.com/rustformers/llm)：针对大型语言模型的已停止维护的Rust库。
+41. [josStorer/RWKV-Runner](https://github.com/josStorer/RWKV-Runner)：RWKV管理与启动工具，大小为8MB且兼容OpenAI API。
+42. [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j)：Java版本的LangChain。
+43. [OpenBMB/ToolBench](https://github.com/OpenBMB/ToolBench)：国际学习表征会议（ICLR）2024亮点：用于大型语言模型（LLM）工具学习的开放平台。
+44. [microsoft/FLAML](https://github.com/microsoft/FLAML)：快速自动机器学习（AutoML）及调优库。 交流群（Discord）：https://discord.gg/Cppx2vSPVP。
+45. [microsoft/lmops](https://github.com/microsoft/lmops)：用于结合大型语言模型（LLMs）和多模态大型语言模型（MLLMs）的人工智能通用技术。
+46. [llm-workflow-engine/llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine)：强大的命令行界面（CLI）和大型语言模型（LLMs）工作流管理器（核心包）。
+47. [timescale/pgai](https://github.com/timescale/pgai)：便于使用PostgreSQL进行检索增强生成（RAG）等操作的工具。
+48. [FreedomIntelligence/LLMZoo](https://github.com/FreedomIntelligence/LLMZoo)：LLM Zoo为大型语言模型提供数据、模型以及评估基准。
+49. [casibase/casibase](https://github.com/casibase/casibase)：人工智能云：开源的检索增强生成（RAG）平台，支持多种模型。
+50. [getzep/zep](https://github.com/getzep/zep)：Zep，你的人工智能栈的记忆基础。
+51. [leptonai/leptonai](https://github.com/leptonai/leptonai)：简化人工智能服务构建的Python框架。
+52. [pezzolabs/pezzo](https://github.com/pezzolabs/pezzo)：用于简化任务的开源大型语言模型运维（LLMOps）平台。
+53. [cheshire-cat-ai/core](https://github.com/cheshire-cat-ai/core)：人工智能智能体微服务。
+54. [aurelio-labs/semantic-router](https://github.com/aurelio-labs/semantic-router)：用于数据决策和处理的超快速人工智能。
+55. [instill-ai/vdp](https://github.com/instill-ai/vdp)：Instill Core是用于人工智能的全栈基础设施工具。
+56. [intel/intel-extension-for-transformers](https://github.com/intel/intel-extension-for-transformers)：快速构建聊天机器人，高效运行大型语言模型（LLMs）。
+57. [griptape-ai/griptape](https://github.com/griptape-ai/griptape)：具备推理等功能的用于人工智能智能体的Python框架。
+58. [run-llama/LlamaIndexTS](https://github.com/run-llama/LlamaIndexTS)：用于大型语言模型（LLM）应用的数据框架，侧重于服务器端。
+59. [Agenta-AI/agenta](https://github.com/Agenta-AI/agenta)：用于多种用途的开源大型语言模型运维（LLMOps）平台。
+60. [marella/ctransformers](https://github.com/marella/ctransformers)：带有GGML的C/C++ Transformer模型的Python绑定。
+61. [devflowinc/trieve](https://github.com/devflowinc/trieve)：用于搜索、推荐、检索增强生成（RAG）、分析的一体化应用程序编程接口（API）。
+62. [YangLing0818/RPG-DiffusionMaster](https://github.com/YangLing0818/RPG-DiffusionMaster)：国际机器学习会议（ICML）2024：用于文本到图像扩散的RPG。
+63. [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack)：用于构建大型语言模型（LLM）智能体等的无代码框架。
+64. [getzep/graphiti](https://github.com/getzep/graphiti)：构建和查询动态知识图谱。
+65. [KimMeen/Time-LLM](https://github.com/KimMeen/Time-LLM)：[国际学习表征会议（ICLR）2024] Time-LLM时间序列预测实现。
+66. [floneum/floneum](https://github.com/floneum/floneum)：Rust中的即时可控本地预训练人工智能模型。
+67. [jina-ai/langchain-serve](https://github.com/jina-ai/langchain-serve)：通过Jina和FastAPI将Langchain应用投入生产。
+68. [SqueezeAILab/LLMCompiler](https://github.com/SqueezeAILab/LLMCompiler)：[国际机器学习会议（ICML）2024] 用于并行函数调用的大型语言模型（LLM）编译器。
+69. [andreibondarev/langchainrb](https://github.com/andreibondarev/langchainrb)：构建由大型语言模型（LLM）驱动的Ruby应用程序。
+70. [psychic-api/rag-stack](https://github.com/psychic-api/rag-stack)：在虚拟专用云（VPC）内部署私人ChatGPT替代方案并连接知识库。
+71. [IntelLabs/fastRAG](https://github.com/IntelLabs/fastRAG)：高效的检索增强与生成框架。
+72. [DAGWorks-Inc/burr](https://github.com/DAGWorks-Inc/burr)：在自己的基础设施上构建决策应用程序。
+73. [sobelio/llm-chain](https://github.com/sobelio/llm-chain)：用于构建大型语言模型（LLM）链、任务的`llm - chain`。
 74. [microsoft/windows-ai-studio](https://github.com/microsoft/windows-ai-studio)
-
-75. [vercel/modelfusion](https://github.com/vercel/modelfusion)：TypeScript库用于构建AI应用。
-
-76. [axflow/axflow](https://github.com/axflow/axflow)：TypeScript框架用于人工智能开发
-
-77. [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer)：Open - source RAG visualisation tool.
-
-78. [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor)：RAPTOR官方实现：树状检索的递归抽象处理
-
-79. [google/generative-ai-swift](https://github.com/google/generative-ai-swift)：Google Gemini API的官方Swift库
-
-80. [safevideo/autollm](https://github.com/safevideo/autollm)：Ship RAG based LLM web apps quickly.
+75. [vercel/modelfusion](https://github.com/vercel/modelfusion)：用于构建人工智能应用的TypeScript库。
+76. [axflow/axflow](https://github.com/axflow/axflow)：用于人工智能开发的TypeScript框架。
+77. [gabrielchua/RAGxplorer](https://github.com/gabrielchua/RAGxplorer)：开源的检索增强生成（RAG）可视化工具。
+78. [parthsarthi03/raptor](https://github.com/parthsarthi03/raptor)：RAPTOR官方实现：树状检索的递归抽象处理。
+79. [google/generative-ai-swift](https://github.com/google/generative-ai-swift)：Google Gemini API的官方Swift库。
+80. [safevideo/autollm](https://github.com/safevideo/autollm)：快速推出基于检索增强生成（RAG）的大型语言模型（LLM）网络应用。
 
 ### 模型仓库
 
-1. [openai/whisper](https://github.com/openai/whisper)：Robust语音识别：大规模弱监督
-
-2. [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)：A text - to - image diffusion model.
-
-3. [facebookresearch/llama](https://github.com/facebookresearch/llama)：Llama模型的推理代码。
-
-4. [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)：High-Resolution Image Synthesis via Latent Diffusion Models
-
-5. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)：Fastest medium - sized GPTs training/finetuning repository.
-
-6. [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)：GFPGAN致力于开发实用人脸修复算法
-
-7. [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)：Let's control diffusion models!
-
-8. [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)：Generative Models by Stability AI
-
-9. [facebookresearch/codellama](https://github.com/facebookresearch/codellama)：Inference code for CodeLlama models.
-
+1. [openai/whisper](https://github.com/openai/whisper)：强大的语音识别：大规模弱监督。
+2. [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)：一个文本到图像的扩散模型。
+3. [facebookresearch/llama](https://github.com/facebookresearch/llama)：骆马（Llama）模型的推理代码。
+4. [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion)：通过潜在扩散模型进行高分辨率图像合成。
+5. [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT)：最快的中型GPT训练/微调仓库。
+6. [TencentARC/GFPGAN](https://github.com/TencentARC/GFPGAN)：GFPGAN致力于开发实用的人脸修复算法。
+7. [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet)：让我们控制扩散模型！
+8. [Stability-AI/generative-models](https://github.com/Stability-AI/generative-models)：由Stability AI开发的生成式模型。
+9. [facebookresearch/codellama](https://github.com/facebookresearch/codellama)：CodeLlama模型的推理代码。
 10. [QwenLM/Qwen](https://github.com/QwenLM/Qwen)：Qwen是阿里云提出的大语言模型的官方库。
-
-11. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)：FinGPT: Open - Source Financial LLMs on HuggingFace.
-
-12. [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)：RWKV是性能佳的RNN，结合RNN和Transformer优势
-
-13. [QwenLM/Qwen1.5](https://github.com/QwenLM/Qwen1.5)：Qwen2.5是阿里云Qwen团队开发的大语言模型系列。
-
-14. [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)：Implementation of DALL - E 2 in Pytorch.
-
-15. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)：Ongoing large - scale transformer model research training.
-
-16. [databrickslabs/dolly](https://github.com/databrickslabs/dolly)：Databricks’ Dolly, a language model on its platform.
-
-17. [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)：AnimateDiff官方实现。
-
-18. [THUDM/CogVideo](https://github.com/THUDM/CogVideo)：text and image to video generation: CogVideoX and CogVideo
-
-19. [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)：AudioGPT: 理解和生成语音、音乐等。
-
-20. [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)：Denoising Diffusion Probabilistic Model in Pytorch implementation
-
-21. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)：CodeGeeX: 开放多语言代码生成模型 (KDD 2023)
-
-22. [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)：RLHF on PaLM architecture, like ChatGPT.
-
-23. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)：CodeGeeX2: A Powerful Multilingual Code Gen Model
-
-24. [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)
-
-25. [openlm-research/open_llama](https://github.com/openlm-research/open_llama)：OpenLLaMA：Meta LLaMA 7B复制品，基于RedPajama数据集
-
-26. [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)：Large World Model: Modeling Text & Video in Millions Context
-
-27. [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)：[CVPR 2024] Depth Anything: Monocular Depth Estimation.
-
-28. [openai/point-e](https://github.com/openai/point-e)：Point cloud diffusion for 3D model synthesis.
-
-29. [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)：Code for "Exploring Transfer Learning Limits" paper
-
-30. [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)：[ICLR 2024] Fine - tuning LLaMA in 1 Hour with 1.2M Params
-
-31. [NVIDIA/DALI](https://github.com/NVIDIA/DALI)：GPU加速库，优化模块助力深度学习。
-
-32. [salesforce/CodeGen](https://github.com/salesforce/CodeGen)：CodeGen是开源程序合成模型，TPU - v4训练。
-
-33. [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)：Latent Consistency Models: High - Res Image Synthesis
-
-34. [microsoft/BioGPT](https://github.com/microsoft/BioGPT)
-
-35. [google-research/multinerf](https://github.com/google-research/multinerf)：Code Release for Mip - NeRF 360, Ref - NeRF, RawNeRF
-
-36. [jaymody/picoGPT](https://github.com/jaymody/picoGPT)：NumPy中极简的GPT - 2实现。
-
-37. [salesforce/CodeT5](https://github.com/salesforce/CodeT5)：Home of CodeT5: Open Code LLMs.
-
-38. [paperswithcode/galai](https://github.com/paperswithcode/galai)：GALACTICA的Model API
-
-39. [databricks/dbrx](https://github.com/databricks/dbrx)：DBRX（Databricks）大语言模型代码示例与资源
-
-40. [state-spaces/s4](https://github.com/state-spaces/s4)：Structured state space sequence models
-
-41. [google-research/electra](https://github.com/google-research/electra)：ELECTRA：预训练文本编码器为判别器而非生成器
-
-42. [EleutherAI/pythia](https://github.com/EleutherAI/pythia)：EleutherAI可解释性与学习动态工作中心
-
-43. [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)：DeepSeek LLM: Answers Exist.
-
-44. [allenai/scispacy](https://github.com/allenai/scispacy)：SpaCy pipeline and models for scientific docs.
-
-45. [apple/ml-4m](https://github.com/apple/ml-4m)：4M: Massively Multimodal Masked Modeling
-
-46. [netease-youdao/BCEmbedding](https://github.com/netease-youdao/BCEmbedding)：Netease Youdao's open - source models for RAG products.
-
-47. [SHI-Labs/OneFormer](https://github.com/SHI-Labs/OneFormer)：CVPR 2023 OneFormer用于通用图像分割
-
-48. [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion)：Versatile Diffusion: Text, Images in One Model
-
-49. [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama)：Lag-Llama：概率时间序列预测的基础模型
-
-50. [IBM/Dromedary](https://github.com/IBM/Dromedary)：Dromedary: 向有益、道德可靠的LLMs发展
-
-51. [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)：Neighborhood Attention Transformer (2022/2023)
-
-52. [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker)
-
-53. [microsoft/ToRA](https://github.com/microsoft/ToRA)：ToRA是解决数学推理问题的LLM Agents系列。
-
-54. [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts)：统一训练通用时间序列预测转换器
-
-55. [replit/ReplitLM](https://github.com/replit/ReplitLM)：Inference code and configs for ReplitLM model family
-
-56. [HazyResearch/safari](https://github.com/HazyResearch/safari)：Sequence Modeling中的卷积操作
-
-
+11. [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT)：FinGPT：HuggingFace上的开源金融大语言模型。
+12. [BlinkDL/RWKV-LM](https://github.com/BlinkDL/RWKV-LM)：RWKV是性能良好的循环神经网络（RNN），结合了RNN和Transformer的优势。
+13. [QwenLM/Qwen1.5](https://github.com/QwenLM/Qwen1.5)：Qwen1.5是阿里云Qwen团队开发的大语言模型系列。
+14. [lucidrains/DALLE2-pytorch](https://github.com/lucidrains/DALLE2-pytorch)：在PyTorch中实现的DALL - E 2。
+15. [NVIDIA/Megatron-LM](https://github.com/NVIDIA/Megatron-LM)：正在进行的大规模Transformer模型研究与训练。
+16. [databrickslabs/dolly](https://github.com/databrickslabs/dolly)：Databricks的多莉（Dolly），其平台上的一种语言模型。
+17. [guoyww/AnimateDiff](https://github.com/guoyww/AnimateDiff)：AnimateDiff的官方实现。
+18. [THUDM/CogVideo](https://github.com/THUDM/CogVideo)：文本和图像到视频生成：CogVideoX和CogVideo。
+19. [AIGC-Audio/AudioGPT](https://github.com/AIGC-Audio/AudioGPT)：AudioGPT：理解和生成语音、音乐等内容。
+20. [lucidrains/denoising-diffusion-pytorch](https://github.com/lucidrains/denoising-diffusion-pytorch)：在PyTorch中实现的去噪扩散概率模型。
+21. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)：CodeGeeX：开放的多语言代码生成模型（KDD 2023）。
+22. [lucidrains/PaLM-rlhf-pytorch](https://github.com/lucidrains/PaLM-rlhf-pytorch)：基于PaLM架构的人类反馈强化学习（RLHF），类似ChatGPT。
+23. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)：CodeGeeX2：一个强大的多语言代码生成模型。
+24. [alembics/disco-diffusion](https://github.com/alembics/disco-diffusion)：（此处未详细说明相关功能等内容）
+25. [openlm-research/open_llama](https://github.com/openlm-research/open_llama)：OpenLLaMA：Meta LLaMA 7B的复制品，基于RedPajama数据集。
+26. [LargeWorldModel/LWM](https://github.com/LargeWorldModel/LWM)：大世界模型（Large World Model）：在数百万上下文环境中对文本和视频进行建模。
+27. [LiheYoung/Depth-Anything](https://github.com/LiheYoung/Depth-Anything)：[CVPR 2024]深度任意（Depth Anything）：单目深度估计。
+28. [openai/point-e](https://github.com/openai/point-e)：用于3D模型合成的点云扩散。
+29. [google-research/text-to-text-transfer-transformer](https://github.com/google-research/text-to-text-transfer-transformer)：“探索迁移学习极限”论文的代码。
+30. [OpenGVLab/LLaMA-Adapter](https://github.com/OpenGVLab/LLaMA-Adapter)：[ICLR 2024]用120万个参数在1小时内微调骆马（LLaMA）模型。
+31. [NVIDIA/DALI](https://github.com/NVIDIA/DALI)：GPU加速库，其优化模块助力深度学习。
+32. [salesforce/CodeGen](https://github.com/salesforce/CodeGen)：CodeGen是开源的程序合成模型，采用TPU - v4进行训练。
+33. [luosiallen/latent-consistency-model](https://github.com/luosiallen/latent-consistency-model)：潜在一致性模型：高分辨率图像合成。
+34. [microsoft/BioGPT](https://github.com/microsoft/BioGPT)：（此处未详细说明相关功能等内容）
+35. [google-research/multinerf](https://github.com/google-research/multinerf)：用于Mip - NeRF 360、Ref - NeRF、RawNeRF的代码发布。
+36. [jaymody/picoGPT](https://github.com/jaymody/picoGPT)：在NumPy中极简的GPT - 2实现。
+37. [salesforce/CodeT5](https://github.com/salesforce/CodeT5)：CodeT5的所在地：开放的代码大语言模型。
+38. [paperswithcode/galai](https://github.com/paperswithcode/galai)：GALACTICA的模型应用程序接口（API）。
+39. [databricks/dbrx](https://github.com/databricks/dbrx)：DBRX（Databricks）大语言模型的代码示例与资源。
+40. [state-spaces/s4](https://github.com/state-spaces/s4)：结构化状态空间序列模型。
+41. [google-research/electra](https://github.com/google-research/electra)：ELECTRA：预训练文本编码器作为判别器而非生成器。
+42. [EleutherAI/pythia](https://github.com/EleutherAI/pythia)：EleutherAI的可解释性与学习动态工作中心。
+43. [deepseek-ai/DeepSeek-LLM](https://github.com/deepseek-ai/DeepSeek-LLM)：DeepSeek大语言模型：答案存在。
+44. [allenai/scispacy](https://github.com/allenai/scispacy)：用于科学文档的SpaCy管道和模型。
+45. [apple/ml-4m](https://github.com/apple/ml-4m)：4M：大规模多模态掩码建模。
+46. [netease-youdao/BCEmbedding](https://github.com/netease-youdao/BCEmbedding)：网易有道用于检索增强生成（RAG）产品的开源模型。
+47. [SHI-Labs/OneFormer](https://github.com/SHI-Labs/OneFormer)：[CVPR 2023]OneFormer用于通用图像分割。
+48. [SHI-Labs/Versatile-Diffusion](https://github.com/SHI-Labs/Versatile-Diffusion)：通用扩散（Versatile Diffusion）：将文本、图像整合在一个模型中。
+49. [time-series-foundation-models/lag-llama](https://github.com/time-series-foundation-models/lag-llama)：滞后骆马（Lag - Llama）：概率时间序列预测的基础模型。
+50. [IBM/Dromedary](https://github.com/IBM/Dromedary)：单峰驼（Dromedary）：朝着有益、道德可靠的大语言模型发展。
+51. [SHI-Labs/Neighborhood-Attention-Transformer](https://github.com/SHI-Labs/Neighborhood-Attention-Transformer)：邻域注意力Transformer（2022/2023）。
+52. [ctlllll/LLM-ToolMaker](https://github.com/ctlllll/LLM-ToolMaker)：（此处未详细说明相关功能等内容）
+53. [microsoft/ToRA](https://github.com/microsoft/ToRA)：ToRA是用于解决数学推理问题的大语言模型智能体（LLM Agents）系列。
+54. [SalesforceAIResearch/uni2ts](https://github.com/SalesforceAIResearch/uni2ts)：统一训练通用时间序列预测转换器。
+55. [replit/ReplitLM](https://github.com/replit/ReplitLM)：ReplitLM模型系列的推理代码和配置。
+56. [HazyResearch/safari](https://github.com/HazyResearch/safari)：序列建模中的卷积操作。
 
 ### 推理优化
 
-1. [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)：LLM推理在C/C++中的应用
-
-2. [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)：C/C++版OpenAI Whisper模型端口
-
-3. [karpathy/llm.c](https://github.com/karpathy/llm.c)：LLM training in simple C/CUDA.
-
-4. [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)：Distribute and run LLMs with one file.
-
-5. [unslothai/unsloth](https://github.com/unslothai/unsloth)：Finetune 5 LLMs 2-5x faster with less memory
-
-6. [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)：Universal LLM Deployment Engine with ML Compilation
-
-7. [karpathy/llama2.c](https://github.com/karpathy/llama2.c)：Infer Llama 2 in one pure C file.
-
-8. [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)：Fast and memory - efficient exact attention
-
-9. [openai/triton](https://github.com/openai/triton)：Triton语言和编译器的开发库
-
-10. [microsoft/BitNet](https://github.com/microsoft/BitNet)：1 - bit LLMs官方推理框架。
-
-11. [ggerganov/ggml](https://github.com/ggerganov/ggml)：Tensor library for machine learning
-
-12. [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)：NVIDIA TensorRT: SDK for GPU deep learning inference.
-
-13. [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)：Run LLMs at home, 10x faster than offloading
-
-14. [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)：TensorRT-LLM提供API构建推理引擎与运行时。
-
-15. [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)：Accelerate local LLM on Intel XPU and integrate with others
-
-16. [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm)：加速本地LLM推理与微调，在Intel XPU上运行
-
-17. [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)：Accessible large language models via k -bit quantization in PyTorch.
-
-18. [google/gemma.cpp](https://github.com/google/gemma.cpp)：Lightweight C++ inference engine for Gemma models.
-
-19. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)：CUDA线性代数子例程模板
-
-20. [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)：Simple pytorch - native text generation in <1000 LOC.
-
-21. [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)：LLMs量化包，基于GPTQ算法且易用。
-
-22. [turboderp/exllamav2](https://github.com/turboderp/exllamav2)：A fast local LLM inference library for consumer GPUs
-
-23. [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2)：Fast Transformer模型的快速推理引擎
-
-24. [ztxz16/fastllm](https://github.com/ztxz16/fastllm)：纯C++全平台llm加速库，支持多基座与Python调用
-
-25. [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa)：4 bits LLaMA quantization with GPTQ
-
-26. [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)：C++ implementation of ChatGLM series and GLM4
-
-27. [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning)：[CVPR 2023] DepGraph结构剪枝研究
-
-28. [turboderp/exllama](https://github.com/turboderp/exllama)：A memory - efficient Llama rewrite for quantized weights.
-
-29. [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch)：Pytorch中的矢量（和标量）量化
-
-30. [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq)：AWQ：LLM压缩加速的激活感知权重量化
-
-31. [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs)：计图大模型推理库，高性能且可移植。
-
-32. [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa)：Medusa: 多解码头加速LLM生成的简单框架
-
-33. [intel/neural-compressor](https://github.com/intel/neural-compressor)：SOTA低比特LLM量化与稀疏性及模型压缩技术
-
-34. [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml)：Libraries for sparsifying neural networks in few lines.
-
-35. [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq)：Code for ICLR 2023 paper "GPTQ"
-
-36. [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens)：Tile primitives for fast kernels
-
-37. [uTensor/uTensor](https://github.com/uTensor/uTensor)：TinyML AI推理库
-
-38. [pytorch-labs/ao](https://github.com/pytorch-labs/ao)：PyTorch训练和推理的量化与稀疏性
-
-39. [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp)：RWKV语言模型在CPU上的INT/FP16推理
-
-40. [mit-han-lab/smoothquant](https://github.com/mit-han-lab/smoothquant)：[ICML 2023] SmoothQuant用于大模型量化
-
-41. [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder)：Thunder可让PyTorch模型提速40%。
-
-42. [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast)：Batch offline inference version of segment - anything
-
-43. [Vahe1994/AQLM](https://github.com/Vahe1994/AQLM)：Official Pytorch仓库用于模型压缩相关论文
-
-44. [hao-ai-lab/LookaheadDecoding](https://github.com/hao-ai-lab/LookaheadDecoding)：[ICML 2024] LLM推理中用前瞻解码破顺序依赖
-
-45. [horseee/LLM-Pruner](https://github.com/horseee/LLM-Pruner)：[NeurIPS 2023] LLM - Pruner for various LLMs.
-
-46. [kuleshov/minillm](https://github.com/kuleshov/minillm)：MiniLLM：在消费级GPU运行现代LLM的最小系统
+1. [ggerganov/llama.cpp](https://github.com/ggerganov/llama.cpp)：大语言模型（LLM）推理在C/C++中的应用。
+2. [ggerganov/whisper.cpp](https://github.com/ggerganov/whisper.cpp)：C/C++版本的OpenAI Whisper模型端口。
+3. [karpathy/llm.c](https://github.com/karpathy/llm.c)：在简单的C/CUDA中进行大语言模型（LLM）训练。
+4. [Mozilla-Ocho/llamafile](https://github.com/Mozilla-Ocho/llamafile)：用一个文件分发和运行大语言模型（LLM）。
+5. [unslothai/unsloth](https://github.com/unslothai/unsloth)：用更少内存以快2 - 5倍的速度微调5个大语言模型（LLM）。
+6. [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm)：带有机器学习编译功能的通用大语言模型（LLM）部署引擎。
+7. [karpathy/llama2.c](https://github.com/karpathy/llama2.c)：在一个纯C文件中推断骆马2（Llama 2）模型。
+8. [Dao-AILab/flash-attention](https://github.com/Dao-AILab/flash-attention)：快速且内存高效的精确注意力机制。
+9. [openai/triton](https://github.com/openai/triton)：Triton语言和编译器的开发库。
+10. [microsoft/BitNet](https://github.com/microsoft/BitNet)：1位大语言模型（LLM）的官方推理框架。
+11. [ggerganov/ggml](https://github.com/ggerganov/ggml)：用于机器学习的张量库。
+12. [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)：NVIDIA TensorRT：用于GPU深度学习推理的软件开发工具包（SDK）。
+13. [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals)：在家中运行大语言模型（LLM），比卸载运行快10倍。
+14. [NVIDIA/TensorRT-LLM](https://github.com/NVIDIA/TensorRT-LLM)：TensorRT - LLM提供应用程序接口（API）来构建推理引擎与运行时环境。
+15. [intel-analytics/BigDL](https://github.com/intel-analytics/BigDL)：在英特尔XPU上加速本地大语言模型（LLM）并与其他组件集成。
+16. [intel-analytics/ipex-llm](https://github.com/intel-analytics/ipex-llm)：加速本地大语言模型（LLM）的推理与微调，在英特尔XPU上运行。
+17. [TimDettmers/bitsandbytes](https://github.com/TimDettmers/bitsandbytes)：通过PyTorch中的k位量化访问大语言模型（LLM）。
+18. [google/gemma.cpp](https://github.com/google/gemma.cpp)：用于Gemma模型的轻量级C++推理引擎。
+19. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)：CUDA线性代数子例程模板。
+20. [pytorch-labs/gpt-fast](https://github.com/pytorch-labs/gpt-fast)：在不到1000行代码内实现简单的基于PyTorch原生的文本生成。
+21. [PanQiWei/AutoGPTQ](https://github.com/PanQiWei/AutoGPTQ)：大语言模型（LLM）量化包，基于GPTQ算法且易于使用。
+22. [turboderp/exllamav2](https://github.com/turboderp/exllamav2)：一个用于消费级GPU的快速本地大语言模型（LLM）推理库。
+23. [OpenNMT/CTranslate2](https://github.com/OpenNMT/CTranslate2)：快速Transformer模型的快速推理引擎。
+24. [ztxz16/fastllm](https://github.com/ztxz16/fastllm)：纯C++全平台大语言模型（LLM）加速库，支持多个基座模型以及Python调用。
+25. [qwopqwop200/GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa)：用GPTQ对骆马（LLaMA）进行4位量化。
+26. [li-plus/chatglm.cpp](https://github.com/li-plus/chatglm.cpp)：ChatGLM系列和GLM4的C++实现。
+27. [VainF/Torch-Pruning](https://github.com/VainF/Torch-Pruning)：[CVPR 2023]基于依赖图（DepGraph）结构的剪枝研究。
+28. [turboderp/exllama](https://github.com/turboderp/exllama)：对量化权重进行内存高效的骆马（Llama）重写。
+29. [lucidrains/vector-quantize-pytorch](https://github.com/lucidrains/vector-quantize-pytorch)：在PyTorch中的矢量（和标量）量化。
+30. [mit-han-lab/llm-awq](https://github.com/mit-han-lab/llm-awq)：AWQ：用于大语言模型（LLM）压缩加速的激活感知权重量化。
+31. [Jittor/JittorLLMs](https://github.com/Jittor/JittorLLMs)：计图大模型推理库，具有高性能且可移植的特点。
+32. [FasterDecoding/Medusa](https://github.com/FasterDecoding/Medusa)：美杜莎（Medusa）：一个通过多解码头加速大语言模型（LLM）生成的简单框架。
+33. [intel/neural-compressor](https://github.com/intel/neural-compressor)：最先进的低比特大语言模型（LLM）量化、稀疏性及模型压缩技术。
+34. [neuralmagic/sparseml](https://github.com/neuralmagic/sparseml)：用于用少量代码稀疏化神经网络的库。
+35. [IST-DASLab/gptq](https://github.com/IST-DASLab/gptq)：ICLR 2023论文“GPTQ”的代码。
+36. [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens)：用于快速内核的瓦片（Tile）原语。
+37. [uTensor/uTensor](https://github.com/uTensor/uTensor)：微型机器学习（TinyML）人工智能推理库。
+38. [pytorch-labs/ao](https://github.com/pytorch-labs/ao)：PyTorch训练和推理的量化与稀疏性。
+39. [saharNooby/rwkv.cpp](https://github.com/saharNooby/rwkv.cpp)：RWKV语言模型在CPU上的INT/FP16推理。
+40. [mit-han-lab/smoothquant](https://github.com/mit-han-lab/smoothquant)：[ICML 2023]SmoothQuant用于大模型量化。
+41. [Lightning-AI/lightning-thunder](https://github.com/Lightning-AI/lightning-thunder)：雷电（Thunder）可让PyTorch模型提速40%。
+42. [pytorch-labs/segment-anything-fast](https://github.com/pytorch-labs/segment-anything-fast)：分割一切（segment - anything）的批量离线推理版本。
+43. [Vahe1994/AQLM](https://github.com/Vahe1
 
 ### 信息聚合
 
-1. [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)：为LLM模型提供实用交互接口，多类功能。
-
-2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)：Interact privately with docs via GPT, no data leaks
-
-3. [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)：Desktop & Docker AI application with RAG, agents etc.
-
-4. [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)：Chat with local docs using GPT privately.
-
-5. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)：利用ChatGPT进行arXiv论文多流程处理
-
-6. [khoj-ai/khoj](https://github.com/khoj-ai/khoj)：Your AI second brain, self - hostable, get started free.
-
-7. [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)：LLM自主代理，可进行研究并生成报告。
-
-8. [arc53/DocsGPT](https://github.com/arc53/DocsGPT)：Chatbot for documentation, privately deployable.
-
-9. [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)：GPT4 & LangChain用于大型PDF文档的聊天机器人
-
-10. [danswer-ai/danswer](https://github.com/danswer-ai/danswer)：Gen - AI Chat for Teams, like ChatGPT with team knowledge.
-
-11. [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox)：Deeply integrate ChatGPT into browser.
-
-12. [facebookresearch/nougat](https://github.com/facebookresearch/nougat)：Nougat用于学术文档的神经光学理解实现
-
-13. [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)：PDF GPT利用GPT使能与PDF内容聊天。
-
-14. [whitead/paper-qa](https://github.com/whitead/paper-qa)：High accuracy RAG for scientific document Q&A with citations
-
-15. [weaviate/Verba](https://github.com/weaviate/Verba)：RAG chatbot powered by Weaviate.
-
-16. [run-llama/rags](https://github.com/run-llama/rags)：Build ChatGPT with data via natural language
-
-17. [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)：GPT与Zotero相遇。
-
-18. [swirlai/swirl-search](https://github.com/swirlai/swirl-search)：AI Search & RAG keeps data secure and deploys quickly.
-
-19. [dvorka/mindforger](https://github.com/dvorka/mindforger)：Thinking notebook and Markdown editor.
-
-20. [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr)：Japanese text OCR, mainly for manga
-
-21. [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)：Developer APIs for Accelerating LLM Projects
-
-22. [ucbepic/docetl](https://github.com/ucbepic/docetl)：Agentic LLM-powered data processing and ETL system.
-
-23. [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge)：Knowledge用于保存、搜索等操作与网站等交互
-
-24. [rotemweiss57/gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper)：GPT自主代理，按用户偏好定制个性化报纸
-
-25. [nlmatics/nlm-ingestor](https://github.com/nlmatics/nlm-ingestor)：This repo has server code and file format parsers.
-
-26. [kha-white/mokuro](https://github.com/kha-white/mokuro)：Read Japanese manga in browser with selectable text.
-
-27. [akshata29/entaoai](https://github.com/akshata29/entaoai)：Chat on own data using OpenAI after quick upload.
+1. [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)：为大型语言模型（LLM）提供实用的交互接口，具备多种功能。
+2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)：通过GPT与文档进行私密交互，无数据泄露风险。
+3. [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm)：带有检索增强生成（RAG）、智能体等功能的桌面及Docker人工智能应用程序。
+4. [PromtEngineer/localGPT](https://github.com/PromtEngineer/localGPT)：私下使用GPT与本地文档进行聊天。
+5. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)：利用ChatGPT对arXiv论文进行多个流程的处理。
+6. [khoj-ai/khoj](https://github.com/khoj-ai/khoj)：你的人工智能第二大脑，可自行托管，免费上手使用。
+7. [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher)：大型语言模型自主智能体，能够开展研究并生成报告。
+8. [arc53/DocsGPT](https://github.com/arc53/DocsGPT)：用于文档的聊天机器人，可进行私密部署。
+9. [mayooear/gpt4-pdf-chatbot-langchain](https://github.com/mayooear/gpt4-pdf-chatbot-langchain)：结合GPT4和LangChain打造的用于大型PDF文档的聊天机器人。
+10. [danswer-ai/danswer](https://github.com/danswer-ai/danswer)：面向团队的生成式人工智能聊天工具，类似带有团队知识的ChatGPT。
+11. [josStorer/chatGPTBox](https://github.com/josStorer/chatGPTBox)：将ChatGPT深度整合到浏览器中。
+12. [facebookresearch/nougat](https://github.com/facebookresearch/nougat)：“牛轧糖”（Nougat）可实现对学术文档的神经光学理解。
+13. [bhaskatripathi/pdfGPT](https://github.com/bhaskatripathi/pdfGPT)：PDF GPT借助GPT实现与PDF内容进行聊天的功能。
+14. [whitead/paper-qa](https://github.com/whitead/paper-qa)：针对科学文档问答的高精度检索增强生成（RAG），带有引用功能。
+15. [weaviate/Verba](https://github.com/weaviate/Verba)：由Weaviate驱动的检索增强生成（RAG）聊天机器人。
+16. [run-llama/rags](https://github.com/run-llama/rags)：通过自然语言利用数据构建ChatGPT。
+17. [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)：GPT与Zotero相结合。
+18. [swirlai/swirl-search](https://github.com/swirlai/swirl-search)：人工智能搜索及检索增强生成（RAG）可保障数据安全并能快速部署。
+19. [dvorka/mindforger](https://github.com/dvorka/mindforger)：思维笔记本以及Markdown编辑器。
+20. [kha-white/manga-ocr](https://github.com/kha-white/manga-ocr)：日语文字光学字符识别（OCR），主要用于漫画。
+21. [nlmatics/llmsherpa](https://github.com/nlmatics/llmsherpa)：用于加速大型语言模型项目的开发者应用程序接口（API）。
+22. [ucbepic/docetl](https://github.com/ucbepic/docetl)：由具备智能体功能的大型语言模型驱动的数据处理及抽取、转换和加载（ETL）系统。
+23. [KnowledgeCanvas/knowledge](https://github.com/KnowledgeCanvas/knowledge)：“知识”（Knowledge）可用于保存、搜索等操作，能与网站等进行交互。
+24. [rotemweiss57/gpt-newspaper](https://github.com/rotemweiss57/gpt-newspaper)：GPT自主智能体，依照用户偏好定制个性化报纸。
+25. [nlmatics/nlm-ingestor](https://github.com/nlmatics/nlm-ingestor)：该代码库包含服务器代码和文件格式解析器。
+26. [kha-white/mokuro](https://github.com/kha-white/mokuro)：可在浏览器中阅读带有可选文本的日本漫画。
+27. [akshata29/entaoai](https://github.com/akshata29/entaoai)：快速上传后，利用OpenAI基于自己的数据进行聊天。
 
 ### 编码助手
 
-1. [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code)：Drop in a screenshot, convert to clean code
-
-2. [gpt-engineer-org/gpt-engineer](https://github.com/gpt-engineer-org/gpt-engineer)：Terminal-based platform for AI Software Engineer.
-
-3. [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)：OpenHands: 少写代码，多做事。
-
-4. [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot)：The first real AI developer
-
-5. [getcursor/cursor](https://github.com/getcursor/cursor)：The AI Code Editor
-
-6. [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)：Create customized software using natural language idea.
-
-7. [TabbyML/tabby](https://github.com/TabbyML/tabby)：Self - hosted AI coding assistant
-
-8. [continuedev/continue](https://github.com/continuedev/continue)：Continue是开源AI代码助手，可自定义体验。
-
-9. [stitionai/devika](https://github.com/stitionai/devika)：Devika, an Agentic AI SE, competes with Devin.
-
-10. [emilwallner/Screenshot-to-code](https://github.com/emilwallner/Screenshot-to-code)：Neural network turns design mock - up into static website.
-
-11. [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)：FauxPilot：开源的GitHub Copilot服务器替代品
-
-12. [eosphoros-ai/DB-GPT](https://github.com/eosphoros-ai/DB-GPT)：AI Native数据应用开发框架含AWEL与Agents
-
-13. [princeton-nlp/SWE-agent](https://github.com/princeton-nlp/SWE-agent)：SWE - agent自动修复GitHub issue等功能。
-
-14. [Sinaptik-AI/pandas-ai](https://github.com/Sinaptik-AI/pandas-ai)：Chat with databases using PandasAI for analysis.
-
-15. [SawyerHood/draw-a-ui](https://github.com/SawyerHood/draw-a-ui)：Draw mockup and generate html
-
-16. [vanna-ai/vanna](https://github.com/vanna-ai/vanna)：Chat with SQL database via LLMs using RAG.
-
-17. [ShishirPatil/gorilla](https://github.com/ShishirPatil/gorilla)：Gorilla: LLMs训练与评估用于函数调用
-
-18. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)：A command - line productivity tool powered by AI.
-
-19. [BloopAI/bloop](https://github.com/BloopAI/bloop)：bloop：用Rust写的快速代码搜索引擎
-
-20. [Nutlope/aicommits](https://github.com/Nutlope/aicommits)：A CLI using AI to write git commit messages.
-
-21. [GreyDGL/PentestGPT](https://github.com/GreyDGL/PentestGPT)：GPT驱动的渗透测试工具
-
-22. [sweepai/sweep](https://github.com/sweepai/sweep)：Sweep: open-source AI for small dev tasks.
-
-23. [joshpxyne/gpt-migrate](https://github.com/joshpxyne/gpt-migrate)：Easily migrate codebase across frameworks or languages.
-
-24. [kuafuai/DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)：AI驱动软件开发的多代理系统，转换需求为软件。
-
-25. [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit)：GPT wrapper for git, generate commit messages fast.
-
-26. [sqlchat/sqlchat](https://github.com/sqlchat/sqlchat)：Chat - based SQL 客户端与编辑器（下一个十年）
-
-27. [Exafunction/codeium.vim](https://github.com/Exafunction/codeium.vim)：Free, ultrafast Copilot for Vim and Neovim
-
-28. [varunshenoy/GraphGPT](https://github.com/varunshenoy/GraphGPT)：Using GPT - 3 to extrapolate knowledge graphs from text.
-
-29. [Nutlope/llamacoder](https://github.com/Nutlope/llamacoder)：Open source Claude Artifacts – Llama 3.1 405B
-
-30. [mckaywrigley/ai-code-translator](https://github.com/mckaywrigley/ai-code-translator)：Use AI to translate code between languages.
-
-31. [shobrook/adrenaline](https://github.com/shobrook/adrenaline)：Chat with and visualize your codebase
-
-32. [QwenLM/Qwen2.5-Coder](https://github.com/QwenLM/Qwen2.5-Coder)：Qwen2.5 - Coder是Qwen2.5代码版，阿里云开发。
-
-33. [ricklamers/gpt-code-ui](https://github.com/ricklamers/gpt-code-ui)：OpenAI ChatGPT Code interpreter开源实现
-
-34. [gofireflyio/aiac](https://github.com/gofireflyio/aiac)：AI基础设施即代码生成器。
-
-35. [defog-ai/sqlcoder](https://github.com/defog-ai/sqlcoder)：SoTA LLM: natural lang to SQL query conversion
-
-36. [gptscript-ai/gptscript](https://github.com/gptscript-ai/gptscript)：Build AI assistants to interact with systems.
-
-37. [RootbeerComputer/backend-GPT](https://github.com/RootbeerComputer/backend-GPT)
-
-38. [mpoon/gpt-repository-loader](https://github.com/mpoon/gpt-repository-loader)：Convert code repos for LLM prompt, mostly by GPT - 4.
-
-39. [Canner/WrenAI](https://github.com/Canner/WrenAI)：Open - source AI Agent for data teams to chat with data.
-
-40. [nus-apr/auto-code-rover](https://github.com/nus-apr/auto-code-rover)：自主软件工程师，完成一定比例任务且低成本
-
-41. [fern-api/fern](https://github.com/fern-api/fern)：Input OpenAPI, output SDKs and Docs.
-
-42. [georgia-tech-db/evadb](https://github.com/georgia-tech-db/evadb)：Database system for AI - powered apps
-
-43. [AbanteAI/mentat](https://github.com/AbanteAI/mentat)：Mentat：AI编码助手
-
-44. [emcf/engshell](https://github.com/emcf/engshell)：An English shell for any OS, LLMs - powered.
-
-45. [AI-Citizen/SolidGPT](https://github.com/AI-Citizen/SolidGPT)：AI开发者角色搜索代理
-
-46. [context-labs/autodoc](https://github.com/context-labs/autodoc)：Experimental toolkit for auto-generating code doc with LLMs
-
-47. [Pythagora-io/pythagora](https://github.com/Pythagora-io/pythagora)：Generate Node.js app automated tests without coding.
-
-48. [eli64s/readme-ai](https://github.com/eli64s/readme-ai)：README file generator - AI powered.
-
-49. [mattzcarey/code-review-gpt](https://github.com/mattzcarey/code-review-gpt)：Code review by LLMs & Embeddings for code quality.
-
-50. [smallcloudai/refact](https://github.com/smallcloudai/refact)：WebUI for coding open - source LLMs fine - tuning.
-
-51. [eylonmiz/react-agent](https://github.com/eylonmiz/react-agent)：Open - source React.js Autonomous LLM Agent
-
-52. [gorilla-llm/gorilla-cli](https://github.com/gorilla-llm/gorilla-cli)：LLMs用于命令行界面
-
-53. [irgolic/AutoPR](https://github.com/irgolic/AutoPR)：Run AI workflows on your codebase.
-
-54. [huggingface/llm-vscode](https://github.com/huggingface/llm-vscode)：LLM助力VSCode开发
-
-55. [peterw/Chat-with-Github-Repo](https://github.com/peterw/Chat-with-Github-Repo)：Repository有俩Python脚本用于创建聊天机器人。
-
-56. [ricklamers/shell-ai](https://github.com/ricklamers/shell-ai)：LangChain驱动的shell命令生成与运行CLI
-
-57. [google/oss-fuzz-gen](https://github.com/google/oss-fuzz-gen)：LLM驱动的OSS - Fuzz模糊测试。
-
-58. [kantord/SeaGOAT](https://github.com/kantord/SeaGOAT)：local - first语义代码搜索引擎
-
-59. [OpenAutoCoder/Agentless](https://github.com/OpenAutoCoder/Agentless)：Agentless自动解决软件开发问题的无代理方法
-
-60. [ferrislucas/promptr](https://github.com/ferrislucas/promptr)：Promptr是用英语指令GPT修改代码的CLI工具。
-
+1. [abi/截图转代码](https://github.com/abi/截图转代码)：上传一张截图，即可转换为简洁的代码。
+2. [gpt-engineer-org/gpt工程师](https://github.com/gpt-engineer-org/gpt-engineer)：基于终端的人工智能软件工程师平台。
+3. [OpenDevin/OpenDevin](https://github.com/OpenDevin/OpenDevin)：OpenHands：少写代码，多做实事。
+4. [Pythagora-io/gpt领航员](https://github.com/Pythagora-io/gpt-pilot)：首个真正的人工智能开发者。
+5. [getcursor/光标](https://github.com/getcursor/cursor)：人工智能代码编辑器。
+6. [OpenBMB/聊天开发](https://github.com/OpenBMB/ChatDev)：利用自然语言想法创建定制化软件。
+7. [TabbyML/塔比](https://github.com/TabbyML/tabby)：可自行托管的人工智能编码助手。
+8. [continuedev/继续](https://github.com/continuedev/continue)：Continue是开源的人工智能代码助手，可自定义使用体验。
+9. [stitionai/德维卡](https://github.com/stitionai/devika)：德维卡，一种具有自主性的人工智能软件工程师，可与德文（Devin）竞争。
+10. [emilwallner/截图转代码](https://github.com/emilwallner/Screenshot-to-code)：神经网络可将设计模型转换为静态网站。
+11. [fauxpilot/仿飞行员](https://github.com/fauxpilot/fauxpilot)：FauxPilot：开源的GitHub Copilot服务器替代品。
+12. [eosphoros-ai/数据库GPT](https://github.com/eosphoros-ai/DB-GPT)：人工智能原生数据应用开发框架，包含AWEL与智能体（Agents）。
+13. [普林斯顿自然语言处理实验室/SWE智能体](https://github.com/princeton-nlp/SWE-agent)：SWE - agent具备自动修复GitHub问题等功能。
+14. [Sinaptik - AI/熊猫AI](https://github.com/Sinaptik-AI/pandas-ai)：利用熊猫AI（PandasAI）与数据库进行交互以开展分析。
+15. [SawyerHood/绘制UI](https://github.com/SawyerHood/draw-a-ui)：绘制模型并生成超文本标记语言（html）文件。
+16. [vanna - ai/万纳](https://github.com/vanna-ai/vanna)：借助检索增强生成（RAG）技术通过大型语言模型（LLMs）与SQL数据库进行交互。
+17. [ShishirPatil/大猩猩](https://github.com/ShishirPatil/gorilla)：大猩猩（Gorilla）：用于函数调用的大型语言模型（LLMs）训练与评估。
+18. [TheR1D/外壳GPT](https://github.com/TheR1D/shell_gpt)：一款由人工智能驱动的命令行效率工具。
+19. [BloopAI/布洛普](https://github.com/BloopAI/bloop)：布洛普（bloop）：用Rust语言编写的快速代码搜索引擎。
+20. [Nutlope/人工智能提交](https://github.com/Nutlope/aicommits)：一款利用人工智能编写Git提交信息的命令行界面（CLI）工具。
+21. [GreyDGL/渗透测试GPT](https://github.com/GreyDGL/PentestGPT)：由GPT驱动的渗透测试工具。
+22. [sweepai/清扫](https://github.com/sweepai/sweep)：清扫（Sweep）：用于小型开发任务的开源人工智能。
+23. [joshpxyne/gpt迁移](https://github.com/joshpxyne/gpt-migrate)：轻松在不同框架或语言之间迁移代码库。
+24. [kuafuai/开发运维GPT](https://github.com/kuafuai/DevOpsGPT)：人工智能驱动的软件开发多智能体系统，可将需求转换为软件。
+25. [di - sukharev/开放提交](https://github.com/di-sukharev/opencommit)：用于Git的GPT封装工具，可快速生成提交信息。
+26. [sqlchat/sql聊天](https://github.com/sqlchat/sqlchat)：基于聊天的SQL客户端与编辑器（面向下一个十年）。
+27. [Exafunction/代码ium.vim](https://github.com/Exafunction/codeium.vim)：适用于Vim和Neovim的免费、超快的Copilot替代品。
+28. [varunshenoy/图GPT](https://github.com/varunshenoy/GraphGPT)：利用GPT - 3从文本中推断知识图谱。
+29. [Nutlope/羊驼编码器](https://github.com/Nutlope/llamacoder)：开源的克劳德（Claude）产物——羊驼（Llama）3.1 405B。
+30. [mckaywrigley/人工智能代码翻译器](https://github.com/mckaywrigley/ai-code-translator)：利用人工智能在不同语言之间翻译代码。
+31. [shobrook/肾上腺素](https://github.com/shobrook/adrenaline)：与代码库进行交互并将其可视化。
+32. [QwenLM/Qwen2.5 - 编码者](https://github.com/QwenLM/Qwen2.5-Coder)：Qwen2.5 - Coder是Qwen2.5的代码版本，由阿里云开发。
+33. [ricklamers/gpt代码界面](https://github.com/ricklamers/gpt-code-ui)：OpenAI ChatGPT代码解释器的开源实现。
+34. [gofireflyio/人工智能即代码](https://github.com/gofireflyio/aiac)：人工智能基础设施即代码生成器。
+35. [defog - ai/sql编码器](https://github.com/defog-ai/sqlcoder)：最先进的大型语言模型（SoTA LLM）：自然语言到SQL查询的转换。
+36. [gptscript - ai/gpt脚本](https://github.com/gptscript-ai/gptscript)：构建人工智能助手以与系统进行交互。
+37. [RootbeerComputer/后端GPT](https://github.com/RootbeerComputer/backend-GPT)
+38. [mpoon/gpt仓库加载器](https://github.com/mpoon/gpt-repository-loader)：主要借助GPT - 4将代码仓库转换为适合大型语言模型（LLM）提示的格式。
+39. [Canner/鹪鹩AI](https://github.com/Canner/WrenAI)：供数据团队与数据进行交互的开源人工智能智能体。
+40. [nus - apr/自动代码漫游者](https://github.com/nus-apr/auto-code-rover)：自主软件工程师，能完成一定比例任务且成本较低。
+41. [fern - api/弗恩](https://github.com/fern-api/fern)：输入OpenAPI，输出软件开发工具包（SDKs）和文档。
+42. [乔治亚理工学院数据库实验室/伊娃达](https://github.com/georgia-tech-db/evadb)：用于人工智能驱动应用的数据库系统。
+43. [AbanteAI/门塔特](https://github.com/AbanteAI/mentat)：门塔特（Mentat）：人工智能编码助手。
+44. [emcf/英壳](https://github.com/emcf/engshell)：适用于任何操作系统的英语命令行界面（shell），由大型语言模型（LLMs）驱动。
+45. [AI - Citizen/固体GPT](https://github.com/AI-Citizen/SolidGPT)：人工智能开发者角色搜索代理。
+46. [context - labs/自动文档](https://github.com/context-labs/autodoc)：利用大型语言模型（LLMs）自动生成代码文档的实验性工具包。
+47. [Pythagora - io/毕达哥拉斯](https://github.com/Pythagora-io/pythagora)：无需编写代码即可自动生成Node.js应用的自动化测试。
+48. [eli64s/自述文件AI](https://github.com/eli64s/readme-ai)：由人工智能驱动的自述文件（README）生成器。
+49. [mattzcarey/代码审查GPT](https://github.com/mattzcarey/code-review-gpt)：借助大型语言模型（LLMs）及嵌入技术进行代码审查，以提升代码质量。
+50. [smallcloudai/重构](https://github.com/smallcloudai/refact)：用于对开源大型语言模型（LLMs）进行微调的网页用户界面（WebUI）。
+51. [eylonmiz/反应智能体](https://github.com/eylonmiz/react-agent)：开源的React.js自主大型语言模型（LLM）智能体。
+52. [gorilla - llm/大猩猩命令行](https://github.com/gorilla-llm/gorilla-cli)：将大型语言模型（LLMs）应用于命令行界面。
+53. [irgolic/自动拉取请求](https://github.com/irgolic/AutoPR)：在你的代码库上运行人工智能工作流程。
+54. [huggingface/大型语言模型助力VSCode](https://github.com/huggingface/llm-vscode)：大型语言模型（LLM）助力Visual Studio Code开发。
+55. [peterw/与GitHub仓库聊天](https://github.com/peterw/Chat-with-Github-Repo)：该仓库包含两个Python脚本，用于创建聊天机器人。
+56. [ricklamers/外壳AI](https://github.com/ricklamers/shell-ai)：由LangChain驱动的shell命令生成与运行的命令行界面（CLI）工具。
+57. [谷歌/开源模糊测试生成](https://github.com/google/oss-fuzz-gen)：由大型语言模型（LLM）驱动的开源模糊测试（OSS - Fuzz）。
+58. [kantord/海山羊](https://github.com/kantord/SeaGOAT)：本地优先的语义代码搜索引擎。
+59. [OpenAutoCoder/无代理](https://github.com/OpenAutoCoder/Agentless)：Agentless是一种自动解决软件开发问题的无代理方法。
+60. [ferrislucas/提示器](https://github.com/ferrislucas/promptr)：提示器（Promptr）是一款用英语指令让GPT修改代码的命令行界面（CLI）工具。
 ### 学习教程
 
 1. [microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)：21 Lessons for Starting with Generative AI
