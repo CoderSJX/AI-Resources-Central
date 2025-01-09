@@ -32,18 +32,44 @@ Welcome to **AI Resource Central**! This repository focuses on gathering excelle
 
 [![Star History Chart](https://api.star-history.com/svg?repos=CoderSJX/AI-Resources-Central&type=Date)](https://star-history.com/#CoderSJX/AI-Resources-Central&Date)
 
-<!-- Table of Contents -->
+Table of Contents
+=================
 
-<details open="open">
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#Introduction">Introduction</a></li>
-    <li><a href="#Goals">Goals</a></li>
-    <li><a href="#Project Directory">Project Directory</a></li>
-    <li><a href="#How to Contribute">How to Contribute</a></li>
-    <li><a href="#License">License</a></li>
-  </ol>
-</details>
+* [AI Resource Central](#ai-resource-central)
+* [Goals](#goals)
+* [Project Directory](#project-directory)
+  * [AI Agent](#ai-agent)
+  * [Prompt engineering](#prompt-engineering)
+  * [AI develop interface](#ai-develop-interface)
+  * [AI Agent develop framework](#ai-agent-develop-framework)
+  * [Model](#model)
+  * [AI Lists](#ai-lists)
+  * [Inference optimization](#inference-optimization)
+  * [Info aggregation](#info-aggregation)
+  * [Code assistant](#code-assistant)
+  * [AI Tutorials](#ai-tutorials)
+  * [Workflow automation](#workflow-automation)
+  * [AI Bots](#ai-bots)
+  * [Multimodal Model](#multimodal-model)
+  * [Multilingual Model](#multilingual-model)
+  * [Data organization](#data-organization)
+  * [AI Service](#ai-service)
+  * [VectorDB](#vectordb)
+  * [AI Education](#ai-education)
+  * [AI develop Toolings](#ai-develop-toolings)
+  * [Model Training](#model-training)
+  * [AI Image generation](#ai-image-generation)
+  * [Dataset](#dataset)
+  * [Model Evals](#model-evals)
+  * [Compute management](#compute-management)
+  * [AI Writing](#ai-writing)
+  * [Agent Monitoring](#agent-monitoring)
+  * [Video generation](#video-generation)
+  * [Data management](#data-management)
+  * [AI Applications](#ai-applications)
+  * [AI engineering](#ai-engineering)
+* [How to Contribute](#how-to-contribute)
+* [License](#license)
 
 <!-- GitHub statistics and badges -->
 
