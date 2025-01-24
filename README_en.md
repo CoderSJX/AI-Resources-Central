@@ -30,7 +30,7 @@
 
 Welcome to **AI Resource Central**! This repository focuses on gathering excellent artificial intelligence (AI) open-source projects from all over the world. Whether you are looking for inspiration to start your own project or want to learn how to use the latest AI technologies, this is an excellent starting point. We are committed to providing a platform for AI developers, researchers, and enthusiasts to explore, communicate, and share the code and implementation of various AI projects.
 
-![Project Directory](./src/image/Project Directory.jpg)
+![Project Directory](./src/image/ProjectDirectory.jpg)
 
 Table of Contents
 =================
