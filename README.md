@@ -29,11 +29,8 @@
   </p>
 
 欢迎来到 **AI Resource Central**！本仓库专注于汇集来自全球的优秀人工智能（AI）开源项目。无论你是寻找灵感来启动自己的项目，还是想要学习如何使用最新的AI技术，这里都是一个绝佳的起点。我们致力于为AI开发者、研究人员以及爱好者提供一个平台，以便于探索、交流并共享各种AI项目的代码与实现。
-
-[![Star History Chart](https://api.star-history.com/svg?repos=CoderSJX/AI-Resources-Central&type=Date)](https://star-history.com/#CoderSJX/AI-Resources-Central&Date)
-
+![AI项目汇总](./src/image/项目目录.jpg)
 <!-- 目录 -->
-
 目录
 =================
 
@@ -1194,6 +1191,7 @@
 
 1. [lastmile-ai/aiconfig](https://github.com/lastmile-ai/aiconfig) - AIConfig是一个基于配置构建生成式AI应用程序的框架。
 
+[![Star History Chart](https://api.star-history.com/svg?repos=CoderSJX/AI-Resources-Central&type=Date)](https://star-history.com/#CoderSJX/AI-Resources-Central&Date)
 
 
 
