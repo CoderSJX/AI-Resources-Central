@@ -1183,6 +1183,7 @@
 4. [webdataset/webdataset](https://github.com/webdataset/webdataset) - 一个适用于各种规模深度学习问题的基于Python的输入输出（I/O）系统，强力支持PyTorch。
 5. [NVIDIA/aistore](https://github.com/NVIDIA/aistore) - AIStore：可扩展的AI应用程序存储。
 6. [mosaicml/streaming](https://github.com/mosaicml/streaming) - 一种用于高效神经网络训练的数据流库。
+7. [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - 帮助用户在 Kubernetes 上运行和管理多种类型的数据库。
 
 ### AI应用
 
